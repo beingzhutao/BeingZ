@@ -1,18 +1,22 @@
 ---
 layout: page
-title: "Primary Investigator"
+title: "Colin Kinz-Thompson"
 ---
 
-Researcher - Physics & Astronomy
+Assistant Professor
 
-Some University - 1 Main Street, Canada
+Researcher - Single Molecules & Molecular Machines
 
-Phone: (000) 000-0000
+Rutgers, The State University of New Jersey
 
-Email: hello@university.edu
+Phone: (973) 353-0671
 
-Office: Science Building 505
+Email: colin.kinzthompson@rutgers.edu
+
+Office: Olson Hall, 73 Warren St, Rutgers University-Newark, Newark, NJ 07102
 
 ---
 
-Nullam lacinia eros eu lectus efficitur euismod. Phasellus ac urna ligula. Curabitur a massa volutpat, convallis velit ut, varius nunc. Ut venenatis pellentesque nulla, luctus accumsan eros suscipit vitae. Proin odio neque, hendrerit cursus mattis ut, aliquet ut nulla. Nulla facilisi. Donec tempus rutrum libero vel cursus.
+The Kinz-Thompson Lab
+
+Single Molecules & Molecular Machines

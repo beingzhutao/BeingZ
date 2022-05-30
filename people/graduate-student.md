@@ -3,15 +3,15 @@ layout: page
 title: "Graduate Student"
 ---
 
-Researcher - Physics & Astronomy
+Researcher - Single Molecules & Molecular Machines
 
-Some University - 1 Main Street, Canada
+Rutgers, The State University of New Jersey
 
 Phone: (000) 000-0000
 
 Email: hello@university.edu
 
-Office: Science Building 505
+Office: Olson Hall, 73 Warren St, Rutgers University-Newark, Newark, NJ 07102
 
 ---
 
