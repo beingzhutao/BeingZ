@@ -62,7 +62,7 @@ The `_layouts/courses.html` layout can be used to showcase courses that were tau
 
 #### CV
 
-The `_layouts/cv.html` layout can be used to showcase a curriculum vitae. The sections of the cv are defined in the `_data/cv` directory, where each section has its own `<section>.yml` file.
+The `_layouts/cv.html` layout can be used to showcase a curriculum vitae. The sections of the cv are defined in the `_data/cv` directory, where each section has its own `<section>.yml` file，and any PDF files that are served can be placed in the `cv` directory.
 
 #### Contact
 
