@@ -5,6 +5,7 @@ menu:
 - {name: 'CV', url: '/cv'}
 - {name: 'Contact', url: '/contact'}
 - {name: 'Useful Links', url: '/useful_links'}
+- {name: 'Blog', url: '/blog'}
 
 people:
 - {name: 'Colin Kinz-Thompson', title: 'Assistant Professor', department: 'Single Molecules & Molecular Machines', institution: 'Rutgers, The State University of New Jersey', institution_address: 'Olson Hall, 73 Warren St, Rutgers University-Newark, Newark, NJ 07102', phone: '(973) 353-0671', email: 'colin.kinzthompson@rutgers.edu.edu', office: 'Olson Hall, 73 Warren St, Rutgers University-Newark, Newark, NJ 07102', image: 'assets/img/primary-investigator.jpg', url: 'primary-investigator'}
