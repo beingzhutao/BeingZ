@@ -4,4 +4,19 @@ layout: default
 
 {{ content }}
 
-{% include useful_links.html %}
+<div class="row g-5 mb-5">
+  <div>
+    <h3 class="fw-bold border-bottom pb-3 mb-5">CV</h3>
+    <div class="row g-5 mb-5">
+      <div class="col-md-2">
+        <h4>Resources</h4>
+      </div>
+      <div class="col-md-10">
+        {% for section in site.data.useful_links %}
+          <p class="fw-bold"><a href="{{ section.title }}">{{ section.url }}</a></p>
+          <p>{{ section.description }}</p>
+        {% endfor %}
+      </div>
+    </div>
+  </div>
+</div>
