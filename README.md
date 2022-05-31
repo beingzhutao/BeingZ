@@ -2,4 +2,4 @@
 
 ### Usa Jekyll Theme for Academic Profile
 
-This project of usage is on GitHub at https://zhutaosheng.github.io/ExplainThemeForAcademia.md.
+This project of usage is Jekyll Theme on [GitHub](https://zhutaosheng.github.io/ExplainThemeForAcademia.md)
