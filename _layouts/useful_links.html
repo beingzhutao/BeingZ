@@ -6,14 +6,14 @@ layout: default
 
 <div class="row g-5 mb-5">
   <div>
-    <h3 class="fw-bold border-bottom pb-3 mb-5">CV</h3>
+    <h3 class="fw-bold border-bottom pb-3 mb-5">Useful Links</h3>
     <div class="row g-5 mb-5">
       <div class="col-md-2">
         <h4>Resources</h4>
       </div>
       <div class="col-md-10">
         {% for section in site.data.useful_links %}
-          <p class="fw-bold"><a href="{{ section.title }}">{{ section.url }}</a></p>
+          <p class="fw-bold"><a href="{{ section.url }}">{{ section.title }}</a></p>
           <p>{{ section.description }}</p>
         {% endfor %}
       </div>

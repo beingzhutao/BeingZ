@@ -1,11 +1,11 @@
 - title: 'Spectra Viewer'
-  description: 'https://www.fpbase.org/spectra/'
+  description: 'fpbase.org'
   url: 'https://www.fpbase.org/spectra/'
 
 - title: 'R0 Calculator'
-  description: 'https://www.fpbase.org/fret/'
+  description: 'fpbase.org'
   url: 'https://www.fpbase.org/fret/'
 
 - title: 'Barrick Lab Protocols'
-  description: 'https://barricklab.org/twiki/bin/view/Lab/ProtocolList'
+  description: 'barricklab.org'
   url: 'https://barricklab.org/twiki/bin/view/Lab/ProtocolList'
