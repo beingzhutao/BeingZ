@@ -34,10 +34,10 @@ layout: default
 
     <div class="row g-5 mb-5">
       <div class="col-md-2">
-        <h4>Honors & Awards</h4>
+        <h4>Honors</h4>
       </div>
       <div class="col-md-10">
-        {% for section in site.data.cv.honors_awards %}
+        {% for section in site.data.cv.honors %}
           <p class="fw-bold">{{ section.title }}</p>
           <p>{{ section.description }}</p>
         {% endfor %}
