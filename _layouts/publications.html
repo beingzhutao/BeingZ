@@ -12,7 +12,7 @@ layout: default
         <h4>Works</h4>
       </div>
       <div class="col-md-10">
-        {% for section in site.data.useful_links %}
+        {% for section in site.data.publications %}
           <p class="fw-bold"><a href="{{ section.url }}">{{ section.title }}</a></p>
           <p>{{ section.description }}</p>
         {% endfor %}
