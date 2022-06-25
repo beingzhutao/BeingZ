@@ -1,11 +1,7 @@
-- title: 'Spectra Viewer'
-  description: 'fpbase.org'
-  url: 'https://www.fpbase.org/spectra/'
+- title: 'Python Resources'
+  description: 'Python for Scientists, a curated list of awesome Python frameworks, libraries, software and resources.'
+  url: 'https://zhutaosheng.github.io/pylibs/'
 
-- title: 'R0 Calculator'
-  description: 'fpbase.org'
-  url: 'https://www.fpbase.org/fret/'
-
-- title: 'Barrick Lab Protocols'
-  description: 'barricklab.org'
-  url: 'https://barricklab.org/twiki/bin/view/Lab/ProtocolList'
+- title: 'Projects Libraries'
+  description: 'A curated list of Projects libraries, Bayesian Statistics, FRET.'
+  url: 'https://github.com/zhutaosheng/pylibs/blob/main/projects.md'

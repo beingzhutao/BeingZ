@@ -1,5 +1,7 @@
-- title: 'Lab'
+- title: 'Lab Skills'
   description: 'UV-Vis Spectrometer, XRD, CV, Fluorescence Spectrophotometer, Gel electrophoresis, basic ideas about characterization analysis (SEM, TEM, EDS, XPS, element mapping, Roman spectra)'
 
 - title: 'Computer Skills'
-  description: 'C, Origin, ChemDraw, Photoshop, Illustrator, Mathematica'
+  description: 'Origin, SigmaPlot, Office, Endnote, ChemDraw, Photoshop, Illustrator, Mathematica'
+- title: 'Programming Skills'
+  description: 'Python, Java, C++, Git, LaTex, Visual Studio, Anaconda, Spyder, Jupyter, Github, Pandas, NumPy, Matplotlib, and SciPy libraries.'

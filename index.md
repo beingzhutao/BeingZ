@@ -3,6 +3,6 @@ layout: home
 title: "Home"
 ---
 
-This theme allows an academic person to showcase their research interests, publications, research group, curriculum vitae, any courses that they may be teaching, or anything else they may want to put out into the world.
+We study the motions of complex molecules, how they are organized, and how they enable chemistry in a sub-discipline of both chemistry and biology.
 
-Academics can use this home page to describe their research interests, display their latest publications, or provide an introduction to their research group.
+I am a computational chemist. The duties of a computational chemist involve using computers to help perform experiments and research including single-molecule, bayesian inference, and machine learning. 
