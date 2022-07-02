@@ -1,7 +1,11 @@
 - title: 'Python Resources'
   description: 'Python for Scientists, a curated list of awesome Python frameworks, libraries, software and resources.'
-  url: 'https://zhutaosheng.github.io/pylibs/'
+  url: 'https://github.com/zhutaosheng/awesome-chemistry/tree/main/aaa-personal-libraries'
 
 - title: 'Projects Libraries'
-  description: 'A curated list of Projects libraries, Bayesian Statistics, FRET.'
-  url: 'https://github.com/zhutaosheng/pylibs/blob/main/projects.md'
+  description: 'A curated list of Projects libraries, Bayesian Statistics, NMR, FRET.'
+  url: 'https://github.com/zhutaosheng/awesome-chemistry/blob/main/aaa-personal-libraries/projects.md'
+
+- title: 'Awesome Chemistry'
+  description: 'A curated list of chemistry libraries and software.'
+  url: 'https://github.com/zhutaosheng/awesome-chemistry'
