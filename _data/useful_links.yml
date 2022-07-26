@@ -1,6 +1,10 @@
-- title: 'Python Resources'
+- title: 'useful link collections'
+  description: 'useful link collections.'
+  url: ''
+
+- title: 'Python for Scientists & Python Libraries'
   description: 'Python for Scientists, a curated list of awesome Python frameworks, libraries, software and resources.'
-  url: 'https://github.com/zhutaosheng/awesome-chemistry/tree/main/aaa-personal-libraries'
+  url: 'https://github.com/zhutaosheng/awesome-chemistry/blob/main/aaa-personal-libraries/python-for-scientists-and-python-libraries.md'
 
 - title: 'Projects Libraries'
   description: 'A curated list of Projects libraries, Bayesian Statistics, NMR, FRET.'
@@ -9,3 +13,7 @@
 - title: 'Awesome Chemistry'
   description: 'A curated list of chemistry libraries and software.'
   url: 'https://github.com/zhutaosheng/awesome-chemistry'
+
+- title: 'Awesome Chemistry - Get Your Paper Published'
+  description: 'A curated of guides to publishing your research results.'
+  url: 'https://github.com/zhutaosheng/awesome-chemistry/blob/main/awesome-chemistry/awesome-chemistry-get-your-paper-published.md'
