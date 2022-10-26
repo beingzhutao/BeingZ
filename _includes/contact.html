@@ -9,10 +9,14 @@
         <p>{{ contact.institution }} | {{ contact.institution_address }}</p>
         <p>Phone: {{ contact.phone }}</p>
         <p>Email: {{ contact.email }}</p>
-        <p>Office: {{ contact.office }}</p>
+        <p>Title: {{ contact.title }}</p>
+        <p>Department: {{ contact.department }}</p>
+        <p>Institution: {{ contact.institution }}</p>
+        <p>institution address: {{ contact.institution_address }}</p>
+        <p>Orcid: {{ contact.orcid }}</p>
       </div>
       <div class="col-md-6">
-        <img src="{{ site.github.url }}/{{ contact.image }}" alt="Contact" width="100%">
+        <img src="{{ site.github.url }}/{{ contact.image }}" alt="Contact" width="50%">
       </div>
     </div>
     {% endfor %}
