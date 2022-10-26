@@ -6,8 +6,8 @@ menu:
 - {name: 'Blog', url: '/blog'}
 
 people:
-- {name: 'Colin Kinz-Thompson', title: 'Assistant Professor', department: 'School of Arts & Sciences-Newark', institution: 'Rutgers, The State University of New Jersey', institution_address: 'Olson Hall, 73 Warren St, Rutgers University-Newark, Newark, NJ 07102', phone: '(973) 353-0671', email: 'colin.kinzthompson@rutgers.edu.edu', office: 'Olson Hall, 73 Warren St, Rutgers University-Newark, Newark, NJ 07102', image: 'assets/img/colin.jpg', url: 'https://ckinzthompson.github.io/'}
-- {name: 'Guangfeng Wang', title: 'Assistant Professor', department: 'School of Chemistry and Materials Science', institution: 'Anhui Normal University | AHNU', institution_address: 'Wuhu, Anhui, China',  phone: '(000) 000-0000', email: 'wangyuz@mail.ahnu.edu.cn', office: 'Anhui Normal University | AHNU', image: 'assets/img/wangguangfeng.jpg', url: 'https://www.researchgate.net/profile/Guangfeng-Wang-2'}
+- {name: 'Colin Kinz-Thompson', title: 'Assistant Professor', department: 'School of Arts & Sciences-Newark', institution: 'Rutgers, The State University of New Jersey', institution_address: 'Olson Hall, 73 Warren St, Rutgers University-Newark, Newark, NJ 07102', phone: '(973) 353-0671', email: 'colin.kinzthompson@rutgers.edu.edu', image: 'assets/img/colin.jpg', url: 'https://ckinzthompson.github.io'}
+- {name: 'Guangfeng Wang', title: 'Assistant Professor', department: 'School of Chemistry and Materials Science', institution: 'Anhui Normal University | AHNU', institution_address: 'Wuhu, Anhui, China',  phone: '(000) 000-0000', email: 'wangyuz@mail.ahnu.edu.cn', image: 'assets/img/wangguangfeng.jpg', url: 'https://www.researchgate.net/profile/Guangfeng-Wang-2'}
 
 social:
 - {icon: 'github', link: 'https://github.com/zhutaosheng'}
