@@ -6,4 +6,4 @@
 - 📫 Email to reach me [zhutao.sheng@rutgers.edu](zhutao.sheng@rutgers.edu)
 - 📫 Website to reach me [zhutaosheng.github.io](https://zhutaosheng.github.io/)
 
-- *This project of usage is Jekyll Theme on [GitHub](https://zhutaosheng.github.io/ExplainThemeForAcademia.md)*
+- *This website build by Jekyll Theme on GitHub
