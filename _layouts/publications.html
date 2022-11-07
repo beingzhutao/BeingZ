@@ -13,8 +13,8 @@ layout: default
       </div>
       <div class="col-md-10">
         {% for section in site.data.publications %}
-          <p class="fw-bold"><a href="{{ section.url }}">{{ section.title }}</a></p>
-          <p>{{ section.description }}</p>
+          <p class="fw-bold">{{ section.title }}</p>
+		  <p><a href="{{ section.url }}">{{ section.description }}</a></p>
         {% endfor %}
       </div>
     </div>
