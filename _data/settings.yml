@@ -11,9 +11,7 @@ people:
 
 social:
 - {icon: 'github', link: 'https://zhutaosheng.github.io'}
-- {icon: 'twitter', link: 'contact'}
-- {icon: 'instagram', link: 'contact'}
-- {icon: 'linkedin', link: 'contact'}
+- {icon: 'instagram', link: 'https://www.instagram.com/zhutao.s'}
 
 contacts:
-- {name: '', title: 'PhD', department: 'School of Arts & Sciences-Newark', institution: 'Rutgers, The State University of New Jersey', institution_address: 'Olson Hall, 73 Warren St, Rutgers University-Newark, Newark, NJ 07102', email: 'zhutao.sheng@rutgers.edu', orcid: 'https://orcid.org/my-orcid?orcid=0000-0003-3355-1426',  image: 'assets/img/zhutao.jpg'}
+- {name: '', department: 'School of Arts & Sciences-Newark', institution: 'Rutgers, The State University of New Jersey', email: 'zs378@newark.rutgers.edu', image: 'assets/img/zhutao.jpg'}
