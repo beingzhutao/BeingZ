@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 23.1) (preloaded format=pdflatex 2023.3.24)  24 MAR 2023 11:03
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 23.1) (preloaded format=pdflatex 2023.3.24)  24 MAR 2023 15:40
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -390,25 +390,29 @@ File: ufontawesomeone.fd 2016/05/22 Font definitions for U/fontawesomeone.
 )
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\@ifnextchar' on input line 151.
-
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <10.95> on input line 157.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 157.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 157.
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\@ifnextchar' on input line 171.
+(hyperref)                removing `\@ifnextchar' on input line 152.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\@ifnextchar' on input line 205.
+(hyperref)                removing `\@ifnextchar' on input line 164.
+
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <10.95> on input line 170.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 170.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 170.
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\@ifnextchar' on input line 184.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\@ifnextchar' on input line 235.
+(hyperref)                removing `\@ifnextchar' on input line 218.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\@ifnextchar' on input line 248.
 
 
 Package fancyhdr Warning: \footskip is too small (0.0pt): 
@@ -420,21 +424,21 @@ Package fancyhdr Warning: \footskip is too small (0.0pt):
 {C:/Users/alone/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}]
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\@ifnextchar' on input line 265.
+(hyperref)                removing `\@ifnextchar' on input line 278.
 
 
-Overfull \hbox (5.42001pt too wide) in paragraph at lines 270--272
+Overfull \hbox (5.42001pt too wide) in paragraph at lines 283--285
 []  
  []
 
 
-Overfull \hbox (5.42001pt too wide) in paragraph at lines 276--278
+Overfull \hbox (5.42001pt too wide) in paragraph at lines 289--291
 []  
  []
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\@ifnextchar' on input line 287.
+(hyperref)                removing `\@ifnextchar' on input line 300.
 
 
 ! LaTeX Error: Something's wrong--perhaps a missing \item.
@@ -443,7 +447,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.292 	\resumeItem
+l.305 	\resumeItem
                   {\textbf{Zhutao Sheng}, Li Wang, Mengmeng Xia, Lin Zhang, ...
 
 Try typing  <return>  to proceed.
@@ -451,20 +455,20 @@ If that doesn't work, type  X <return>  to quit.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\@ifnextchar' on input line 306.
+(hyperref)                removing `\@ifnextchar' on input line 319.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\@ifnextchar' on input line 323.
+(hyperref)                removing `\@ifnextchar' on input line 336.
 
 
-! LaTeX Error: \begin{itemize} on input line 237 ended by \end{document}.
+! LaTeX Error: \begin{itemize} on input line 250 ended by \end{document}.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.401 \end{document}
+l.414 \end{document}
                     
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
@@ -480,20 +484,20 @@ Package fancyhdr Warning: \footskip is too small (0.0pt):
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
 Package rerunfilecheck Info: File `main.out' has not changed.
-(rerunfilecheck)             Checksum: 88BB4A34436022D33761B031DA52FA30;1027.
+(rerunfilecheck)             Checksum: 2E47656C34E94C1F664358495130B460;1130.
  )
 (\end occurred inside a group at level 1)
 
-### semi simple group (level 1) entered at line 237 (\begingroup)
+### semi simple group (level 1) entered at line 250 (\begingroup)
 ### bottom level 
 Here is how much of TeX's memory you used:
- 11972 strings out of 476334
- 191133 string characters out of 5787971
+ 11974 strings out of 476334
+ 191153 string characters out of 5787971
  1878382 words of memory out of 5000000
- 32239 multiletter control sequences out of 15000+600000
+ 32240 multiletter control sequences out of 15000+600000
  519518 words of font info for 59 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 75i,11n,76p,347b,703s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 75i,11n,76p,485b,637s stack positions out of 10000i,1000n,20000p,200000b,200000s
  <C:\Users\alone\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/
 ec/dpi600\tcrm1095.pk>{C:/Users/alone/AppData/Local/Programs/MiKTeX/fonts/enc/d
 vips/fontawesome/fontawesomeone.enc}{C:/Users/alone/AppData/Local/Programs/MiKT
@@ -508,9 +512,9 @@ amsfonts/cm/cmr10.pfb><C:/Users/alone/AppData/Local/Programs/MiKTeX/fonts/type1
 s/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/alone/AppData/Local/Programs/Mi
 KTeX/fonts/type1/public/amsfonts/cm/cmsy6.pfb><C:/Users/alone/AppData/Local/Pro
 grams/MiKTeX/fonts/type1/public/amsfonts/cm/cmti10.pfb>
-Output written on main.pdf (2 pages, 141931 bytes).
+Output written on main.pdf (2 pages, 142572 bytes).
 PDF statistics:
- 110 PDF objects out of 1000 (max. 8388607)
- 11 named destinations out of 1000 (max. 500000)
- 65 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 114 PDF objects out of 1000 (max. 8388607)
+ 12 named destinations out of 1000 (max. 500000)
+ 73 words of extra memory for PDF output out of 10000 (max. 10000000)
 
