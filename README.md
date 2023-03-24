@@ -1,1 +1,1 @@
-- *This website build by Jekyll Theme on GitHub*
+- *This website build by Jekyll Theme on GitHub, and a lot of the code here has been modified by me to match this site*

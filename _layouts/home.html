@@ -3,12 +3,22 @@ layout: default
 ---
 
 <div class="row g-5 mb-5">
-  <div class="col-md-8">
-    <h3 class="fw-bold">Research</h3>
+  <div class="col-md-9">
     {{ content }}
   </div>
-  <div class="col-md-4">
-    <img src="{{ site.github.url }}/assets/img/home.jpg" alt="Home" width="100%">
+  <div class="col-md-3">
+<h3 class="fw-bold border-bottom pb-3 mb-5">About</h3>
+<ul>
+  <li>Item 1</li>
+  <li>Item 2
+    <ul>
+      <li><a href="{{ item.url }}">https://www.instagram.com/zhutao.s/</a></li>
+      <li>Subitem 2.2</li>
+    </ul>
+  </li>
+  <li>Item 3</li>
+</ul>
+
   </div>
 </div>
 
