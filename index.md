@@ -36,7 +36,6 @@ I'm also an amateur programmer, I guess.
 <a href="https://unsplash.com/photos/V-afy242gY4">
 Johnny Brown, CC0, via Unsplash
 </a></small>
-{style=text-align:center;}
 
 ## About Zhutao
 
