@@ -13,12 +13,22 @@ layout: default
         <h4>Education</h4>
       </div>
       <div class="col-md-10">
-        {% for section in site.data.cv.education %}
+        {% for section in site.data.cv-education %}
           <p class="fw-bold">{{ section.title }}</p>
           <p>{{ section.description }}</p>
         {% endfor %}
       </div>
     </div>
-
+    <div class="row g-5 mb-5">
+      <div class="col-md-2">
+        <h4>Education</h4>
+      </div>
+      <div class="col-md-10">
+        {% for section in site.data.cv-publications %}
+          <p>{{ section.title }}</p>
+          <p class="fw-bold"><a href="{{ section.url }}">{{ section.description }}</a></p>
+        {% endfor %}
+      </div>
+    </div>
   </div>
 </div>
