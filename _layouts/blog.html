@@ -3,10 +3,13 @@ layout: default
 ---
 
 <div class="row g-5 mb-5">
-  <div class="col-md-12">
+  <div class="col-md-10">
     <h3 class="fw-bold border-bottom pb-3 mb-5">Posts</h3>
     {% for post in site.posts %}
       <p><a href="{{ site.github.url }}/{{ post.url }}">{{ post.title }}</a> - {{ post.date | date: "%B %-d, %Y" }}</p>
     {% endfor %}
   </div>
+  /* below class is about the side bar for blog, will update to the when home style change */
+  {% include sidebar-about.html %}
+
 </div>
