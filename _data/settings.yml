@@ -1,7 +1,6 @@
 menu:
-- {name: 'Home', url: '{{ site.github.url }}'}
+- {name: 'Home', url: '/'}
 - {name: 'Blog', url: '/blog'}
-- {name: 'Publications', url: '/publications'}
 - {name: 'CV', url: '/cv'}
 - {name: 'Contact', url: '/contact'}
 
