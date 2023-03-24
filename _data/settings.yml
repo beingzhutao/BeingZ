@@ -1,9 +1,8 @@
 menu:
-- {name: 'People', url: '/people'}
+- {name: 'Blog', url: '/blog'}
 - {name: 'Publications', url: '/publications'}
 - {name: 'CV', url: '/cv'}
 - {name: 'Contact', url: '/contact'}
-- {name: 'Blog', url: '/blog'}
 
 people:
 - {name: 'Colin Kinz-Thompson', title: 'Assistant Professor', department: 'School of Arts & Sciences-Newark', institution: 'Rutgers, The State University of New Jersey', institution_address: 'Olson Hall, 73 Warren St, Rutgers University-Newark, Newark, NJ 07102', email: 'colin.kinzthompson@rutgers.edu.edu', image: 'assets/img/colin.jpg', url: 'https://ckinzthompson.github.io'}
