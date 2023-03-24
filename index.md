@@ -7,6 +7,8 @@ title: "Home"
 
 *如果你想获得一个小时的快乐，那么睡觉；如果你想获得一天的快乐，那么去钓鱼；如果你想获得一年的快乐，那么继承一个财产；如果你想获得一生的快乐，那么帮助别人*
 
+
+
 *English Tranlation: "If you want happiness for an hour, take a nap. If you want happiness for a day, go fishing. If you want happiness for a year, inherit a fortune. If you want happiness for a lifetime, help somebody." *
 
 *Spanish Tranlation: Si quieres obtener una hora de felicidad, entonces duerme; si quieres obtener un día de felicidad, entonces ve a pescar; si quieres obtener un año de felicidad, entonces hereda una propiedad; si quieres obtener una vida de felicidad, entonces ayuda a los demás.*
@@ -39,9 +41,12 @@ I'm also an amateur programmer, I guess.
 Johnny Brown, CC0, via Unsplash
 </a></small>
 
+<br> 
+
+
 ## About Zhutao
 
-Evan is a chemistry PhD student at Rutgers.
+Zhutao is a chemistry PhD student at Rutgers.
 
 Outside of chemistry and teaching, Zhutao's hobbies include
 🧩 Puzzles
@@ -54,8 +59,9 @@ Outside of chemistry and teaching, Zhutao's hobbies include
 💪 Fitness
 🍳 Cooking
 
-## Pictures of Zhutao coding
+<br>
 
+## Pictures of Zhutao coding
 <img class="6563686f202d6e202234636550757368324d61696e22207c20787864" src="https://user-images.githubusercontent.com/3750940/100553934-25a84a00-325f-11eb-974e-f5b61dcb44b3.png" height="172" alt="Zhutao hard at work" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zhutaosheng&layout=compact&theme=vue&hide=PHP&langs_count=6" height="172" alt="Top languages card" />    
 
 
