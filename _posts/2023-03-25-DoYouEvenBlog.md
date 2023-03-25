@@ -28,7 +28,11 @@ In conclusion, I just want to say a huge thank you to everyone who has supported
 
 ## Instagram update!📸 
 
-*Don't forget to leave a like and a comment to let me know what you think! 😊*
+*Don't forget to leave a like and a comment to let me know what you think! 😊* [@zhtuao.s](https://www.instagram.com/zhtuao.s)
 
-<!-- SnapWidget -->
-<iframe src="https://snapwidget.com/embed/1028835" class="snapwidget-widget" allowtransparency="true" frameborder="0" scrolling="no" style="border:none; overflow:hidden;  width:765px; height:2040px"></iframe>
+<div class="row g-5 mb-5">
+
+{% include instagram-SnapWidget.html %}
+
+</div>
+
