@@ -1,8 +1,8 @@
 ---
-layout: cv
-title: "CV"
+layout: default
 ---
 
+# [CV-PDF]{{ site.github.url }}/cv/CV-Zhutao.pdf
 # Education
 ## Ph.D. Biophysical Chemistry
 

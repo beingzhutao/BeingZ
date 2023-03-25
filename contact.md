@@ -1,7 +1,17 @@
 ---
-layout: contact
-title: "Contact"
+layout: default
 ---
+
+
+# Contact
+{{ site.github.url }}/{{ contact.image }}" alt="Contact" width="50%">
+
+Email: zs378@newark.rutgers.edu
+
+Department: School of Arts & Sciences-Newark
+
+Institution: Rutgers, The State University of New Jersey
+
 
 I am a graduate student at Rutgers University who has a great interest in chemistry. My CV is [here]({{ site.github.url }}/cv/CV-Zhutao.pdf).
 

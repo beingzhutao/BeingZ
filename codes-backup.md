@@ -40,6 +40,18 @@
 </div>
 
 
-
-
+## layout/contact.html
+{% for contact in site.data.settings.contacts %}
+<div class="row g-5 mb-5">
+<div class="col-md-8">
+    <h4>{{ contact.name }}</h4>
+    <p>Email: {{ contact.email }}</p>
+    <p>Department: {{ contact.department }}</p>
+    <p>Institution: {{ contact.institution }}</p>
+</div>
+<div class="col-md-4">
+    <img src="{{ site.github.url }}/{{ contact.image }}" alt="Contact" width="50%">
+</div>
+</div>
+{% endfor %}
 ```

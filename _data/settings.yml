@@ -13,6 +13,3 @@ advisors:
 social:
 - {icon: 'github', link: 'https://zhutaosheng.github.io'}
 - {icon: 'instagram', link: 'https://www.instagram.com/zhutao.s'}
-
-contacts:
-- {name: '', department: 'School of Arts & Sciences-Newark', institution: 'Rutgers, The State University of New Jersey', email: 'zs378@newark.rutgers.edu', image: 'assets/img/zhutao.jpg'}
