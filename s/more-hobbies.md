@@ -1,9 +1,8 @@
 ---
 layout: home
-title: "More Hobbies"
 ---
 
-# More Hobbies
+## More Hobbies
 
 Outside of chemistry and teaching, Zhutao's hobbies include
 
