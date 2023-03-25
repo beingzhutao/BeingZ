@@ -7,34 +7,10 @@ layout: default
   <div>
     <h3 class="fw-bold border-bottom pb-3 mb-5"><a href="{{ site.github.url }}/cv/CV-Zhutao.pdf">CV-PDF</a></h3>
     <div class="row g-5 mb-5">
-      <div class="col-md-2">
-        <h4>Education</h4>
-      </div>
-      <div class="col-md-10">
-        {% for section in site.data.cv-education %}
-          <p class="fw-bold">{{ section.title }}</p>
-          <p>{{ section.description }}</p>
-        {% endfor %}
-      </div>
-    </div>
-    <div class="row g-5 mb-5">
-      <div class="col-md-2">
-        <h4>Publications</h4>
-      </div>
-      <div class="col-md-10">
-        {% for section in site.data.cv-publications %}
-          <p>{{ section.title }}</p>
-          <p class="fw-bold"><a href="{{ section.url }}">{{ section.description }}</a></p>
-        {% endfor %}
+      <div class="col-md-12">
+        {{ content }}
       </div>
     </div>
   </div>
 </div>
 
-
-
-<div class="row g-5 mb-5">
-  <div class="col-md-10">
-    {{ content }}
-  </div>
-</div>
