@@ -13,7 +13,7 @@ title: "Home"
 
 ---
 
-My name is Zhutao, and I am a graduate student at Rutgers University who has a great interest in chemistry. My CV is [here]({{ site.github.url }}/cv/CV-Zhutao.pdf). These days, I’m interested in FRET Study. 
+My name is Zhutao, and I am a graduate student at Rutgers University who has a great interest in chemistry. My CV is [here]({{ site.github.url }}/cv/CV-Zhutao.pdf).
 
 You can visit my website [🌐zhutaosheng.com](http://zhutaosheng.com/), and I am also available at the following places: [🐙GitHub](https://github.com/zhutaosheng), [📷Instagram](https://www.instagram.com/zhtuao.s), [🎥Youtube](https://www.youtube.com/@ZhutaoGuru), [📺Twitch](https://www.twitch.tv/zhutao_s), [🤖Discord](https://discord.com/users/Zhutao#4694), [📖ResearchGate](https://www.researchgate.net/profile/Zhutao-Sheng), [📝Blogs](http://zhutaosheng.com/). 
 
@@ -57,6 +57,12 @@ Outside of chemistry and teaching, Zhutao's hobbies include
 💪 Fitness
 🍳 Cooking
 
+
+<br>
+
+## Pictures of Zhutao Coding 🐙
+<img class="6563686f202d6e202234636550757368324d61696e22207c20787864" src="https://user-images.githubusercontent.com/3750940/100553934-25a84a00-325f-11eb-974e-f5b61dcb44b3.png" height="172" alt="Zhutao hard at work" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zhutaosheng&layout=compact&theme=vue&hide=PHP&langs_count=6" height="172" alt="Top languages card" />    
+
 <br>
 
 ## Instagram update!📸 
@@ -65,11 +71,4 @@ Outside of chemistry and teaching, Zhutao's hobbies include
 
 <!-- SnapWidget -->
 <iframe src="https://snapwidget.com/embed/1028835" class="snapwidget-widget" allowtransparency="true" frameborder="0" scrolling="no" style="border:none; overflow:hidden;  width:765px; height:2040px"></iframe>
-
-
-<br>
-
-## Pictures of Zhutao Coding 🐙
-<img class="6563686f202d6e202234636550757368324d61696e22207c20787864" src="https://user-images.githubusercontent.com/3750940/100553934-25a84a00-325f-11eb-974e-f5b61dcb44b3.png" height="172" alt="Zhutao hard at work" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zhutaosheng&layout=compact&theme=vue&hide=PHP&langs_count=6" height="172" alt="Top languages card" />    
-
 
