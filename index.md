@@ -59,7 +59,17 @@ Outside of chemistry and teaching, Zhutao's hobbies include
 
 <br>
 
-## Pictures of Zhutao coding
+## Instagram update!📸 
+
+*Don't forget to leave a like and a comment to let me know what you think! 😊*
+
+<!-- SnapWidget -->
+<iframe src="https://snapwidget.com/embed/1028835" class="snapwidget-widget" allowtransparency="true" frameborder="0" scrolling="no" style="border:none; overflow:hidden;  width:765px; height:2040px"></iframe>
+
+
+<br>
+
+## Pictures of Zhutao Coding 🐙
 <img class="6563686f202d6e202234636550757368324d61696e22207c20787864" src="https://user-images.githubusercontent.com/3750940/100553934-25a84a00-325f-11eb-974e-f5b61dcb44b3.png" height="172" alt="Zhutao hard at work" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zhutaosheng&layout=compact&theme=vue&hide=PHP&langs_count=6" height="172" alt="Top languages card" />    
 
 
