@@ -1,4 +1,4 @@
 ---
-layout: people
+layout: advisors
 title: "Current & previous advisors"
 ---
