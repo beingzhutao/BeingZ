@@ -7,14 +7,17 @@ Outside of chemistry and teaching, Zhutao's hobbies include
 
 <li>Personal/Hobbies
 <ul>
-    <li><a href="{{ site.github.url }}/s/puzzles">Puzzles🧩</a></li>
-    <li><a href="{{ site.github.url }}/s/reading">Reading📚</a></li>
-    <li><a href="{{ site.github.url }}/s/games">Games🕹️</a></li>
-    <li><a href="{{ site.github.url }}/s/hiking">Hiking🌄</a></li>
-    <li><a href="{{ site.github.url }}/s/climbing">Climbing🧗‍♂️</a></li>
-    <li><a href="{{ site.github.url }}/s/minimalst">Minimalist🚶‍♂️</a></li>
-    <li><a href="{{ site.github.url }}/s/photography">Photography📸</a></li>
-    <li><a href="{{ site.github.url }}/s/more-hobbies">More Hobbies🎨</a></li>
+    <li><a href="{{ site.github.url }}/s/hobbies-puzzles">Puzzles🧩</a></li>
+    <li><a href="{{ site.github.url }}/s/hobbies-reading">Reading📚</a></li>
+    <li><a href="{{ site.github.url }}/s/hobbies-games">Games🕹️</a></li>
+    <li><a href="{{ site.github.url }}/s/hobbies-hiking">Hiking🌄</a></li>
+    <li><a href="{{ site.github.url }}/s/hobbies-climbing">Climbing🧗‍♂️</a></li>
+    <li><a href="{{ site.github.url }}/s/hobbies-minimalst">Minimalist🚶‍♂️</a></li>
+    <li><a href="{{ site.github.url }}/s/hobbies-photography">Photography📸</a></li>
+    <li><a href="{{ site.github.url }}/s/hobbies-adventure">Adventure🌄</a></li>
+    <li><a href="{{ site.github.url }}/s/hobbies-trails"></a></li>
+    <li><a href="{{ site.github.url }}/s/hobbies-fitness">Fitness💪</a></li>
+    <li><a href="{{ site.github.url }}/s/hobbies-cooking">Cooking🍳</a></li>
 </ul>
 </li>
 
@@ -40,24 +43,3 @@ Outside of chemistry and teaching, Zhutao's hobbies include
     }
   </style>
   
-🧩 Puzzles
-
-📚Reading
-
-🕹️Games
-
-🌄Hiking
-
-🧗‍♂️Climbing
-
-🚶‍♂️Minimalist
-
-📸Photography
-
-🌄 Adventure
-
-🚶 Trails
-
-💪 Fitness
-
-🍳 Cooking
