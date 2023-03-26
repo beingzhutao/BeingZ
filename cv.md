@@ -3,6 +3,9 @@ layout: default
 ---
 
 ## [CV-PDF]({{ site.github.url }}/cv/CV-Zhutao.pdf)
+
+<br>
+
 ## Education
 ### Ph.D. Biophysical Chemistry
 
@@ -11,6 +14,9 @@ Rutgers, The State University of New Jersey (Sep. 2022 - Jun. 2028 Expected). Ne
 ### B.Sc. Chemistry & Materials Science
 
 Anhui Normal University (Sep. 2019 - Jun. 2022). Wuhu, China
+
+
+<br>
 
 ## Publications
 **Zhutao Sheng**, Li Wang, Mengmeng Xia, Lin Zhang, Xiaojun Zhang, Guangfeng Wang. “A visible and colorimetric aptasensor for exosomes detection based enzyme-catalyzed coupling and the aggregation of L-tyrosine-capped gold nanoparticles.” Published patent, 2021.
