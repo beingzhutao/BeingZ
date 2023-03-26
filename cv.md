@@ -13,7 +13,7 @@ Rutgers, The State University of New Jersey (Sep. 2022 - Jun. 2028 Expected). Ne
 
 ### B.Sc. Chemistry & Materials Science
 
-Anhui Normal University (Sep. 2019 - Jun. 2022). Wuhu, China
+Anhui Normal University (Sep. 2018 - Jun. 2022). Wuhu, China
 
 
 <br>
