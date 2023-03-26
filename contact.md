@@ -19,5 +19,5 @@ You can visit my website [zhutaosheng.com]({{ site.github.url }}), and I am also
 <br>
 
 <div style="text-align: left;">
-<img src="{{ site.github.url }}/{{ contact.image }}" width="50%" />
+<img src="{{ site.github.url }}/assets/img/zhutao.jpg" width="50%" />
 </div>
