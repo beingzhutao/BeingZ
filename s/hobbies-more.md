@@ -15,13 +15,13 @@ What are some of your favorite hobbies? Let me know in the comments!
 <ul>
     <li><a href="{{ site.github.url }}/s/hobbies-puzzles">Puzzles🧩</a></li>
     <li><a href="{{ site.github.url }}/s/hobbies-reading">Reading📚</a></li>
-    <li><a href="{{ site.github.url }}/s/hobbies-games">Games🕹️</a></li>
     <li><a href="{{ site.github.url }}/s/hobbies-hiking">Hiking🌄</a></li>
     <li><a href="{{ site.github.url }}/s/hobbies-climbing">Climbing🧗‍♂️</a></li>
-    <li><a href="{{ site.github.url }}/s/hobbies-minimalist">Minimalist🚶‍♂️</a></li>
     <li><a href="{{ site.github.url }}/s/hobbies-photography">Photography📸</a></li>
+    <li><a href="{{ site.github.url }}/s/hobbies-minimalist">Minimalist🚶‍♂️</a></li>
     <li><a href="{{ site.github.url }}/s/hobbies-adventure">Adventure🌄</a></li>
-    <li><a href="{{ site.github.url }}/s/hobbies-trails"></a></li>
+    <li><a href="{{ site.github.url }}/s/hobbies-games">Games🕹️</a></li>
+    <li><a href="{{ site.github.url }}/s/hobbies-trails">Trails</a></li>
     <li><a href="{{ site.github.url }}/s/hobbies-fitness">Fitness💪</a></li>
     <li><a href="{{ site.github.url }}/s/hobbies-cooking">Cooking🍳</a></li>
 </ul>
