@@ -19,7 +19,7 @@ I have to give a shoutout to [ChatGPT](https://chat.openai.com/chat) for being m
 
 Going forward, I'll be here sharing all kinds of stuff with you guys, from my thoughts on life to my latest journal entries. I hope you'll follow me on social media and check out my website regularly. Your support is so important to me, and it will help me to continue to share my journey with you. ❤️
 
-You can visit my website [🌐zhutaosheng.com](http://zhutaosheng.com/), and I am also available at the following places: [🐙GitHub](https://github.com/zhutaosheng), [📷Instagram](https://www.instagram.com/zhtuao.s), [🎥Youtube](https://www.youtube.com/@ZhutaoGuru), [📺Twitch](https://www.twitch.tv/zhutao_s), [🤖Discord](https://discord.com/users/Zhutao#4694), [📖ResearchGate](https://www.researchgate.net/profile/Zhutao-Sheng), [📝Blogs](http://zhutaosheng.com/). 
+You can visit my website [🌐zhutaosheng.com](https://www.zhutaosheng.com), and I am also available at the following places: [🐙GitHub](https://github.com/zhutaosheng), [📷Instagram](https://www.instagram.com/zhtuao.s), [🎥Youtube](https://www.youtube.com/@ZhutaoGuru), [📺Twitch](https://www.twitch.tv/zhutao_s), [🤖Discord](https://discord.com/users/Zhutao#4694), [📖ResearchGate](https://www.researchgate.net/profile/Zhutao-Sheng), [📝Blogs](https://www.zhutaosheng.com/blog). 
 
 
 In conclusion, I just want to say a huge thank you to everyone who has supported me thus far. Creating a blog has been an incredible experience, and I can't wait to see what the future holds. So, here's to new beginnings and endless possibilities!  

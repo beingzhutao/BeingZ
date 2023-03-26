@@ -9,4 +9,7 @@ layout: default
 <br>
 
 
-![QR Code for my website]({{ site.github.url }}/assets/qr-code/qr-code-zhutao-website.png){width=70%}
+<div style="text-align:center;">
+<img src="{{ site.github.url }}/assets/qr-code/qr-code-zhutao-website.png" width="400" />
+</div>
+
