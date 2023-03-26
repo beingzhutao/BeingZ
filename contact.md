@@ -1,15 +1,18 @@
 ---
-layout: default
+layout: home
 ---
 
-# Contact
+## Contact
 
-| 
+
 Email: zs378@newark.rutgers.edu
 
 Department: School of Arts & Sciences-Newark
 
-Institution: Rutgers, The State University of New Jersey | <img src="{{ site.github.url }}/{{ contact.image }}" width="50%"> |
+Institution: Rutgers, The State University of New Jersey
+
+
+<img src="{{ site.github.url }}/{{ contact.image }}" width="50%"> |
 
 
 
