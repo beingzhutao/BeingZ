@@ -7,6 +7,14 @@ title: "Quotes"
 
 📚 Some of my favorite quotes never fail to inspire me and remind me of what's truly important in life. 💭🌟
 
+
+*如果你想获得一个小时的快乐，那么睡觉；如果你想获得一天的快乐，那么去钓鱼；如果你想获得一年的快乐，那么继承一个财产；如果你想获得一生的快乐，那么帮助别人*
+
+*English Tranlation: If you want happiness for an hour, take a nap. If you want happiness for a day, go fishing. If you want happiness for a year, inherit a fortune. If you want happiness for a lifetime, help somebody.*
+
+*Spanish Tranlation: Si quieres obtener una hora de felicidad, entonces duerme; si quieres obtener un día de felicidad, entonces ve a pescar; si quieres obtener un año de felicidad, entonces hereda una propiedad; si quieres obtener una vida de felicidad, entonces ayuda a los demás.*
+
+
 ## Quotes about Chemistry
 "Chemistry is like cooking, just don't lick the spoon." - Unknown 👩‍🍳 #ChemistryHumor
 
@@ -105,3 +113,20 @@ title: "Quotes"
 "Don't judge each day by the harvest you reap but by the seeds that you plant." - Robert Louis Stevenson 🌱🌟 #PlantTheSeedsOfSuccess
 
 "The greatest gift of life is friendship, and I have received it." - Hubert H. Humphrey 🤝💖 #FriendshipIsAGift
+
+## Quotes about passion, life, happiness
+
+"The man who moves a mountain begins by carrying away small stones."
+"移山者先移动小石头" (yíshān zhě xiān yídòng xiǎo shítou)
+
+"If you want happiness for a lifetime, help somebody."
+"如果你想一生快乐，就要帮助别人" (rúguǒ nǐ xiǎng yīshēng kuàilè, jiù yào bāngzhù biérén)
+
+"The best time to plant a tree was 20 years ago. The second-best time is now."
+"种树最好的时间是20年前，其次就是现在" (zhòng shù zuì hǎo de shíjiān shì 20 nián qián, qícì jiùshì xiànzài)
+
+"The journey of a thousand miles begins with a single step."
+"千里之行，始于足下" (qiān lǐ zhī xíng, shǐ yú zú xià)
+
+"He who asks a question is a fool for five minutes; he who does not ask a question remains a fool forever."
+"不耻下问的人五分钟是傻瓜，不愿意问问题的人永远是傻瓜" (bù chǐ xià wèn de rén wǔ fēnzhōng shì shǎguā, bù yuànyì wèn wèntí de rén yǒngyuǎn shì shǎguā)

@@ -16,9 +16,20 @@
 </div>
 
 ------------------------------------------------------
+## picture include
+<div style="text-align:center;">
+<img src="{{ site.github.url }}/assets/img/home-water-is-not-wet.png" width="400" /><br />
+<small>Water is not wet. "Wet" is just a term people use to describe the feeling of water.</small><br />
+<small>Image source:
+<a href="https://unsplash.com/photos/V-afy242gY4">
+Johnny Brown, CC0, via Unsplash
+</a></small>
+</div>
+
+------------------------------------------------------
 
 ## contact
-`<div class="row g-5 mb-5">
+<div class="row g-5 mb-5">
   <div>
     <h3 class="fw-bold border-bottom pb-3 mb-5">Contact</h3>
     {% for contact in site.data.settings.contacts %}
@@ -35,7 +46,7 @@
     </div>
     {% endfor %}
   </div>
-</div> `
+</div> 
 
 
 ------------------------------------------------------
