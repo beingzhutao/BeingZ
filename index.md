@@ -15,7 +15,7 @@ title: "Home"
 
 My name is Zhutao, and I am a graduate student at Rutgers University who has a great interest in chemistry. My CV is [here]({{ site.github.url }}/cv/CV-Zhutao.pdf).
 
-You can visit my website [🌐zhutaosheng.com](https://www.zhutaosheng.com), and I am also available at the following places: [🐙GitHub](https://github.com/zhutaosheng), [📷Instagram](https://www.instagram.com/zhtuao.s), [🎥Youtube](https://www.youtube.com/@ZhutaoGuru), [📺Twitch](https://www.twitch.tv/zhutao_s), [🤖Discord](https://discord.com/users/Zhutao#4694), [📖ResearchGate](https://www.researchgate.net/profile/Zhutao-Sheng), [📝Blogs](https://www.zhutaosheng.com/blog). 
+You can visit my website [🌐zhutaosheng.com](https://www.zhutaosheng.com), and I am also available at the following places: [🐙GitHub](https://github.com/zhutaosheng), [📷Instagram](https://www.instagram.com/zhutao.s/?utm_source=ig_embed&utm_campaign=loading), [🎥Youtube](https://www.youtube.com/@ZhutaoGuru), [📺Twitch](https://www.twitch.tv/zhutao_s), [🤖Discord](https://discord.com/users/Zhutao#4694), [📖ResearchGate](https://www.researchgate.net/profile/Zhutao-Sheng), [📝Blogs](https://www.zhutaosheng.com/blog). 
 
 
 I'm also an amateur programmer, I guess.
@@ -49,7 +49,7 @@ Johnny Brown, CC0, via Unsplash
 
 ## Instagram update!📸 
 
-*Don't forget to leave a like and a comment to let me know what you think! 😊* [@zhtuao.s](https://www.instagram.com/zhtuao.s)
+*Don't forget to leave a like and a comment to let me know what you think! 😊* [@zhtuao.s](https://www.instagram.com/zhutao.s/?utm_source=ig_embed&utm_campaign=loading)
 
 <div class="row g-5 mb-5">
 

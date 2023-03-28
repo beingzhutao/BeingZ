@@ -28,16 +28,25 @@ If you have any questions about my experience or how to get started, please feel
 
 ## Getting Started Rock Climbing
 
-- Find a climbing gym near you: https://www.indoorclimbing.com/
-- Invest in good climbing shoes: https://www.rei.com/c/climbing-shoes
-- Learn proper belaying techniques: https://www.rei.com/learn/expert-advice/belaying-basics.html
-- Start with top-rope climbing: https://www.climbing.com/skills/learn-this-toprope-climbing/
-- Get a feel for bouldering: https://www.climbing.com/skills/learn-this-bouldering/
-- Join a climbing club or group: https://www.accessfund.org/connect-local/climbing-coalitions
-- Take a climbing class or workshop: https://www.amga.com/
-- Practice your grip strength: https://www.climbing.com/skills/learn-this-grip-strength/
-- Watch climbing videos for inspiration and tips: https://www.youtube.com/user/epictvclimbing
-- Stay safe and informed: https://www.americanalpineclub.org/p/climbing-resources
+Find a climbing gym near you: https://www.indoorclimbing.com/
+
+Invest in good climbing shoes: https://www.rei.com/c/climbing-shoes
+
+Learn proper belaying techniques: https://www.rei.com/learn/expert-advice/belaying-basics.html
+
+Start with top-rope climbing: https://www.climbing.com/skills/learn-this-toprope-climbing/
+
+Get a feel for bouldering: https://www.climbing.com/skills/learn-this-bouldering/
+
+Join a climbing club or group: https://www.accessfund.org/connect-local/climbing-coalitions
+
+Take a climbing class or workshop: https://www.amga.com/
+Practice your grip strength: https://www.climbing.com/skills/learn-this-grip-strength/
+
+Watch climbing videos for inspiration and tips: https://www.youtube.com/user/epictvclimbing
+
+Stay safe and informed: https://www.americanalpineclub.org/p/climbing-resources
+
 Happy climbing! 🧗‍♀️🌄
 
 

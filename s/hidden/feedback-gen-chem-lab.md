@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: home
 ---
 
 ## Feedback GEN CHEM LAB
