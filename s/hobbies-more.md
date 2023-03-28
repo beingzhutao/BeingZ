@@ -21,7 +21,8 @@ What are some of your favorite hobbies? Let me know in the comments!
     <li><a href="{{ site.github.url }}/s/hobbies-minimalist">Minimalist🚶‍♂️</a></li>
     <li><a href="{{ site.github.url }}/s/hobbies-adventure">Adventure🌄</a></li>
     <li><a href="{{ site.github.url }}/s/hobbies-games">Games🕹️</a></li>
-    <li><a href="{{ site.github.url }}/s/hobbies-trails">Trails</a></li>
+    <li><a href="{{ site.github.url }}/s/hobbies-movies">Movies🎬</a></li>
+    <li><a href="{{ site.github.url }}/s/hobbies-trails">Trails🍁</a></li>
     <li><a href="{{ site.github.url }}/s/hobbies-fitness">Fitness💪</a></li>
     <li><a href="{{ site.github.url }}/s/hobbies-cooking">Cooking🍳</a></li>
 </ul>
