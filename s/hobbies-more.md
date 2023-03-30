@@ -13,19 +13,19 @@ What are some of your favorite hobbies? Let me know in the comments!
 
 <li>Personal/Hobbies
 <ul>
-    <li><a href="{{ site.github.url }}/s/hobbies-puzzles">Puzzles🧩</a></li>
-    <li><a href="{{ site.github.url }}/s/hobbies-reading">Reading📚</a></li>
-    <li><a href="{{ site.github.url }}/s/hobbies-hiking">Hiking🌄</a></li>
-    <li><a href="{{ site.github.url }}/s/hobbies-climbing">Climbing🧗‍♂️</a></li>
-    <li><a href="{{ site.github.url }}/s/hobbies-photography">Photography📸</a></li>
-    <li><a href="{{ site.github.url }}/s/hobbies-minimalist">Minimalist🚶‍♂️</a></li>
-    <li><a href="{{ site.github.url }}/s/hobbies-adventure">Adventure🌄</a></li>
-    <li><a href="{{ site.github.url }}/s/hobbies-games">Games🕹️</a></li>
-    <li><a href="{{ site.github.url }}/s/hobbies-movies">Movies🎬</a></li>
-    <li><a href="{{ site.github.url }}/s/hobbies-trails">Trails🍁</a></li>
-    <li><a href="{{ site.github.url }}/s/hobbies-fitness">Fitness💪</a></li>
-    <li><a href="{{ site.github.url }}/s/hobbies-cooking">Cooking🍳</a></li>
-    <li><a href="{{ site.github.url }}/s/hobbies-podcast">Podcast🎙️</a></li>
+    <li><a href="/s/hobbies-puzzles">Puzzles🧩</a></li>
+    <li><a href="/s/hobbies-reading">Reading📚</a></li>
+    <li><a href="/s/hobbies-hiking">Hiking🌄</a></li>
+    <li><a href="/s/hobbies-climbing">Climbing🧗‍♂️</a></li>
+    <li><a href="/s/hobbies-photography">Photography📸</a></li>
+    <li><a href="/s/hobbies-minimalist">Minimalist🚶‍♂️</a></li>
+    <li><a href="/s/hobbies-adventure">Adventure🌄</a></li>
+    <li><a href="/s/hobbies-games">Games🕹️</a></li>
+    <li><a href="/s/hobbies-movies">Movies🎬</a></li>
+    <li><a href="/s/hobbies-trails">Trails🍁</a></li>
+    <li><a href="/s/hobbies-fitness">Fitness💪</a></li>
+    <li><a href="/s/hobbies-cooking">Cooking🍳</a></li>
+    <li><a href="/s/hobbies-podcast">Podcast🎙️</a></li>
 </ul>
 </li>
 
