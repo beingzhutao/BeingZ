@@ -2,6 +2,13 @@
 
 ```
 
+
+------------------------------------------------------
+<img src="/assets/img/2023-Maine-Cultures/DSC01102.jpg" width="100%">
+
+<img src="/assets/img/my-bike/mybike.JPG" alt="My bike" width="100%">
+
+
 <br>
 ------------------------------------------------------
 
