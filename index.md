@@ -31,7 +31,7 @@ You can visit my website [🌐zhutaosheng.com](https://www.zhutaosheng.com), and
  #biochemist #math #puzzles #hiking #reading #science #passion #adventure
 
 <div style="text-align:center;">
-<img src="{{ site.github.url }}/assets/img/home-water-is-not-wet.png" width="400" /><br />
+<img src="assets/img/home-water-is-not-wet.png" width="400" /><br />
 <small>Water is not wet. "Wet" is just a term people use to describe the feeling of water.</small><br />
 <small>Image source:
 <a href="https://unsplash.com/photos/V-afy242gY4">
