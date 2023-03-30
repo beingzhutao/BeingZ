@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Do You Even Blog?"
+title: "Do You Even Blog?📝"
 ---
 
 👋🏻 Hey everyone! I'm excited to share that I've just created my very first blog! It's been an amazing journey so far, filled with learning and growth, and I can't wait to share it all with you. 😍

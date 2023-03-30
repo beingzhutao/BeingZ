@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ChatGPT-MidJourney to me?"
+title: "ChatGPT-MidJourney to me?🤖"
 ---
 
 

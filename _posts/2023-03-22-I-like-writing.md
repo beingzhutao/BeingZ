@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "I like writing"
+title: "I like writing✍️"
 ---
 
 📝🌍✍️ #Writing #MemoryKeeping

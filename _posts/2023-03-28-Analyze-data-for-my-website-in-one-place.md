@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Analyze data for my website in one place?"
+title: "Analyze data for my website in one place?🔍"
 ---
 
 📆📈🔍 Diary Entry: Analyzing My Website Data with [Google Analytics](https://analytics.google.com/analytics/web/provision/#/provision)
