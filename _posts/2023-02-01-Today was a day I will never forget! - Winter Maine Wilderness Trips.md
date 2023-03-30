@@ -14,7 +14,7 @@ title: "Today was a day I will never forget! - Winter Maine Wilderness Tripsâ„ï
 
 ## Images
 
-![2023-Maine-Cultures](/assets\img\2023-Maine-Cultures\DSC01102.jpg)
+![2023-Maine-Cultures](/assets\img\2023-Maine-Cultures\DSC01102.jpg "Maine Cultures")
 
 ![2023-Maine-Cultures](/assets\img\2023-Maine-Cultures\DSC01144.jpg)
 
