@@ -14,18 +14,20 @@ title: "Today was a day I will never forget! - Winter Maine Wilderness Tripsâ„ï
 
 ## Images
 
-![2023-Maine-Cultures](/assets\img\2023-Maine-Cultures\DSC01102.jpg "Maine Cultures")
+<img src="/assets/img/2023-Maine-Cultures/DSC01102.jpg" width="100">
 
-![2023-Maine-Cultures](/assets\img\2023-Maine-Cultures\DSC01144.jpg)
+<img src="/assets/img/2023-Maine-Cultures/DSC01144.jpg" width="100">
 
-![2023-Maine-Cultures](/assets\img\2023-Maine-Cultures\DSC01198.jpg)
+<img src="/assets/img/2023-Maine-Cultures/DSC01198.jpg" width="100">
 
-![2023-Maine-Cultures](/assets\img\2023-Maine-Cultures\DSC01324.jpg)
+<img src="/assets/img/2023-Maine-Cultures/DSC01324.jpg" width="100">
 
-![2023-Maine-Cultures](/assets\img\2023-Maine-Cultures\DSC01355.jpg)
+<img src="/assets/img/2023-Maine-Cultures/DSC01355.jpg" width="100">
 
-![2023-Maine-Cultures](/assets\img\2023-Maine-Cultures\DSC01399.jpg)
+<img src="/assets/img/2023-Maine-Cultures/DSC01399.jpg" width="100">
 
-![2023-Maine-Cultures](/assets\img\2023-Maine-Cultures\DSC01440.jpg)
+<img src="/assets/img/2023-Maine-Cultures/DSC01440.jpg" width="100">
 
-![2023-Maine-Cultures](/assets\img\2023-Maine-Cultures\DSC01495.jpg)
+<img src="/assets/img/2023-Maine-Cultures/DSC01102.jpg" width="100">
+
+<img src="/assets/img/2023-Maine-Cultures/DSC01495.jpg" width="100">
