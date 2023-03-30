@@ -62,7 +62,7 @@ Ultimately, the implementation of sustainability and ecotourism principles in le
 [1] Danuta de Grosbois & David A. Fennell (2021): Sustainability and ecotourism principles adoption by leading ecolodges: learning from best practices, Tourism Recreation Research, DOI: 10.1080/02508281.2021.1875170 
 
 
-Journal entries on Maine Winter 2023 experience
+## Journal entries on Maine Winter 2023 experience
 
 Name: Zhutao 
 Subject: ISSUES SOCIAL WORK
@@ -70,7 +70,8 @@ Teacher: CLAYTON L. WALTON
 Date course: January 4th, 2023 -  January 14th, 2023
 
 
-The culture of northern Maine
+**The culture of northern Maine**
+
 The culture of northern Maine is diverse and has been shaped by the region's geography, history, and demographics. The area is known for its rugged beauty, with dense forests, rolling hills, and abundant wildlife. The population is primarily rural, with small towns and villages scattered throughout the region.
 
 The region was also heavily influenced by French and British settlers in the 17th and 18th centuries. This is reflected in the architecture, particularly in the many stone and wooden houses with steep roofs and dormer windows that are still standing today. The region's French heritage is also reflected in its cuisine, with dishes such as poutine, and fiddleheads being popular in northern Maine.
