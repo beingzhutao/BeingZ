@@ -1,6 +1,5 @@
 url: "https://www.zhutaosheng.com" # the base hostname & protocol for your site, e.g. http://example.com
-baseurl: "/blog" # the subpath of your site, e.g. /blog
-title: "Zhutao Sheng" # the name of your site, e.g. ACME Corp.
+title: "Zhutao Sheng" # the name of your site
 description: "The only way to do great work is to love what you do - Steve Jobs"
 
 ---

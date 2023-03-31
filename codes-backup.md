@@ -1,6 +1,17 @@
 
 
 ```
+
+url: "https://www.zhutaosheng.com" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/blog" # the subpath of your site, e.g. /blog
+title: "Zhutao Sheng" # the name of your site, e.g. ACME Corp.
+description: "The only way to do great work is to love what you do - Steve Jobs"
+
+---
+permalink: /404.html
+---
+------------------------------------------------------
+
 ## home-water-is-not-wet.png
 <div style="text-align:center;">
 <img src="/assets/img/home-water-is-not-wet.png" width="400" /><br />
