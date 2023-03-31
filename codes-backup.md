@@ -1,6 +1,23 @@
 
 
 ```
+## home-water-is-not-wet.png
+<div style="text-align:center;">
+<img src="/assets/img/home-water-is-not-wet.png" width="400" /><br />
+<small>Water is not wet. "Wet" is just a term people use to describe the feeling of water.</small><br />
+<small>Image source:
+<a href="https://unsplash.com/photos/V-afy242gY4">
+Johnny Brown, CC0, via Unsplash
+</a></small>
+</div>
+
+
+<br>
+
+## Coding 🐙
+<img class="6563686f202d6e202234636550757368324d61696e22207c20787864" src="https://user-images.githubusercontent.com/3750940/100553934-25a84a00-325f-11eb-974e-f5b61dcb44b3.png" height="172" alt="Zhutao hard at work" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zhutaosheng&layout=compact&theme=vue&hide=PHP&langs_count=6" height="172" alt="Top languages card" />    
+
+<br>
 
 
 ------------------------------------------------------

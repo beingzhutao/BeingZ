@@ -21,6 +21,16 @@ If you like photography. So, why do you enjoy photography? What inspires you to 
 
 📷🌅🌄🏞️🌿🌺🌸🌼🍁🍂🌊🐾🦋🐝🦜🐦🐞🐢🌸🌺🌼🌻🌷🌹💐🌾🍃🌅
 
+## Beauty of nature and plant life
+
+<img src="/assets/img/plants-pic\IMG_7366.JPG" width="100%">
+
+<img src="/assets/img/plants-pic\IMG_6561.JPG" width="100%">
+
+<img src="/assets/img/plants-pic\IMG_7330.JPG" width="100%">
+
+Shot by PowerShot G7 X
+
 ## Instagram update!📸 
 *I post photos to my Instagram.*
 

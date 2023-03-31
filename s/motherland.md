@@ -27,6 +27,9 @@ As I reflect on my childhood in the motherland China, I am reminded of the impor
 
 #MotherlandChina #CountrysideLiving #MemorableMoments #Grateful #HardWorkPaysOff
 
+<img src="/assets/img/all-pics/here-is-china.png" width="100%">
+
+
 ## Food in China
 
 🍜🥟🍲🍗🌶️🧄🥦🥬🦆🥢🇨🇳

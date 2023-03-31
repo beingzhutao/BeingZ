@@ -3,7 +3,6 @@ layout: default
 ---
 
 ## [CV-PDF](/cv/CV-Zhutao.pdf)
-
 <br>
 
 ## Education

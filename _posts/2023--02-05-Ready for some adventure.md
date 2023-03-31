@@ -1,10 +1,7 @@
 ---
-layout: home
-title: "Adventure"
+layout: post
+title: "Ready for some adventure🐾"
 ---
-
-## Adventure
-
 
 🌲🎒🐻 Ready for some adventure! 🐾🦅
 
@@ -28,4 +25,25 @@ Finally, I can't wait to go on a wildlife safari in Africa and trek through rain
 
 So, here's to new adventures and trying new things! 🎉🌎🌟 #adventures #wilderness #scubadiving #bungeejumping #skydiving #rockclimbing #whitewaterrafting #surfing #hiking #ziplining #paragliding #kayaking #snowboarding #caves #hotairballoon #safari #rainforest #roadtrip #horsebackriding #camping #iceclimbing #newexperiences #pushingmylimits #bucketlist
 
-Here is what I am doing right now: Rock Climbing, Hiking
+## Here is what I am doing right now:
+
+
+Rock Climbing:
+
+Improve your **climbing** skills by taking lessons or practicing at an indoor climbing gym.
+Try outdoor climbing on different types of rock, such as granite, sandstone, or limestone.
+Learn trad climbing (traditional climbing), which involves placing your own protection gear while climbing.
+Attempt a longer or more difficult climb, such as a multi-pitch climb or a climb with a high level of difficulty rating.
+Hiking:
+
+Set a goal to **hike** a specific trail or mountain you've always wanted to do.
+Plan a backpacking trip and spend multiple days hiking and camping in the wilderness.
+Explore different types of hiking, such as snowshoeing, trail running, or fastpacking (backpacking at a faster pace).
+Join a hiking group or club to meet new people and discover new hiking spots.
+Camping:
+
+Try **camping** in a different type of terrain, such as the desert or the beach.
+Learn new camping skills, such as fire building, camp cooking, or backcountry first aid.
+Upgrade your camping gear, such as getting a better tent, sleeping bag, or camp stove.
+Combine camping with another activity, such as kayaking, mountain biking, or fishing.
+Remember, the most important thing is to have fun and enjoy the experience. Keep challenging yourself and trying new things, and you may discover a new passion or interest along the way. Good luck and have fun!
