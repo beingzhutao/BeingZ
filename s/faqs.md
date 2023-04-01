@@ -22,5 +22,5 @@ title: "FAQs"
 
 [Rarely Asked Questions](/s/faqs-rarely-ask-questions): What is one thing you would change about the world if you had the power to do so? What is your favorite memory from your childhood?
 
-[Some "get to know each other" questions with answers](/s/faqs-Some-get-to-know-each-other-questions-with-answers.md): Do you enjoy trying new things? What do you value most in life? Are you more introverted or extroverted?
+[Some "get to know each other" questions with answers](/s/faqs-Some-get-to-know-each-other-questions-with-answers): Do you enjoy trying new things? What do you value most in life? Are you more introverted or extroverted?
  

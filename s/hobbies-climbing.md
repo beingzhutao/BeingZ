@@ -26,6 +26,9 @@ If you're interested in [getting started with rock climbing](https://www.rei.com
 If you have any questions about my experience or how to get started, please feel free to leave a comment below 👇. Let's get climbing! 🧗‍♂️
 
 
+<img src="/assets/img/all-pics/climbing-pic.jpg" width="100%">
+
+
 ## Getting Started Rock Climbing
 
 Find a climbing gym near you: https://www.indoorclimbing.com/

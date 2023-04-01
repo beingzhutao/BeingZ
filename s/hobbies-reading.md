@@ -15,14 +15,19 @@ What about you? Do you prefer to read physical books or digital copies? Let me k
 
 ## Books that have had the greatest influence on my life
 
- - Minimalism: Live a Meaningful Life by Joshua Fields Millburn, Ryan Nicodemus.
- - Social Engineering: The Art of Human Hacking - Christopher Hadnagy, Paul Wilson. 
- - The Stranger by Albert Camus.
+
+Minimalism: Live a Meaningful Life by Joshua Fields Millburn, Ryan Nicodemus.
+
+Social Engineering: The Art of Human Hacking - Christopher Hadnagy, Paul Wilson. 
+
+The Stranger by Albert Camus.
 
 
 ## My favorite authors
- - Albert Camus (1913-1960) was a representative of non-metropolitan French literature. The Stranger by Albert Camus is the best.
- - 
+
+Albert Camus (1913-1960) was a representative of non-metropolitan French literature. The Stranger by Albert Camus is the best.
+
+
 
 
 ## My reading lists on goodreads.com

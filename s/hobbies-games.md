@@ -20,6 +20,8 @@ What are some of your favorite games? Let me know in the comments below! 👇
 
 #Valorant #ForzaHorizon5
 
+<img src="/assets/img/all-pics/ForzaHorizon5_KeyArt_Horiz_RGB_Final.jpg" width="100%">
+
 ## Other games
 
 🃏🎲 My love for card games is real, and my top two favorites are [Uno](https://www.wikihow.com/Play-UNO) and any game on [cardgames.io!](https://cardgames.io/) 🙌

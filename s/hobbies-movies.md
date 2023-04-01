@@ -13,7 +13,8 @@ But movies aren't just about entertainment for me. 🤔 They also inspire me and
 So if you're looking for a way to escape reality for a little while, connect with others, or broaden your horizons, give movies a chance! 🙌 What's your favorite movie or genre? Let me know in the comments! ⬇️🎥 #movies #favorites #commentbelow
 
 ## Movies that have had the greatest influence on my life
- - 3 Idiots (2009) - Two friends are searching for their long lost companion. They revisit their college days and recall the memories of their friend who inspired them to think differently, even as the rest of the world called them "idiots". 
+ 
+ 3 Idiots (2009) - Two friends are searching for their long lost companion. They revisit their college days and recall the memories of their friend who inspired them to think differently, even as the rest of the world called them "idiots". 
 
 ## My movies lists on imdb.com
 
