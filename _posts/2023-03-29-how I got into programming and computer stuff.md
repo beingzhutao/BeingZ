@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Analyze data for my website in one place?🔍"
+title: "how I got into programming and computer stuff💻"
 ---
 Hey everyone! Today, I want to talk about how I got into programming and computer stuff. 💻
 

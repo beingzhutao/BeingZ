@@ -26,6 +26,7 @@ What are some of your favorite hobbies? Let me know in the comments!
     <li><a href="/s/hobbies-fitness">Fitness💪</a></li>
     <li><a href="/s/hobbies-cooking">Cooking🍳</a></li>
     <li><a href="/s/hobbies-podcast">Podcast🎙️</a></li>
+    <li><a href="/s/hobbies-tree-climbing">Tree climbing🌳</a></li>
 </ul>
 </li>
 

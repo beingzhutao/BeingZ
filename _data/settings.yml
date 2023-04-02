@@ -2,7 +2,6 @@ menu:
 - {name: 'Home', url: '/'}
 - {name: 'Blog', url: '/blog'}
 - {name: 'Resources', url: '/s/resources'}
-- {name: 'CV', url: '/cv'}
 - {name: 'Contact', url: '/contact'}
 
 
