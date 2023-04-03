@@ -68,7 +68,6 @@ layout: default-with-comments
 |Average distance of molecules from ref plane when they initiate their jump|$\bar{a} = \frac{2}{3}\lambda$|
 |**Viscosity of ideal gas**|$\mu = \dfrac{1}{3}\rho\bar{u}\lambda = \dfrac{2}{3\pi^{3/2}}\dfrac{\sqrt{mk_BT}}{d^2}$|
 |**Thermal conductivity of ideal gas**|$k = \dfrac{1}{3}\rho\hat{c_v}\bar{u}\lambda = \dfrac{2\hat{c_v}}{3\pi^{3/2}}\dfrac{\sqrt{mk_BT}}{d^2}$|
-|**Diffusivity of ideal gas A in B**|$D_{AB} = \dfrac{1}{3}\bar{u}_{AB}\lambda_{AB} = \dfrac{2}{\pi^{3/2}}\dfrac{\sqrt{{k_BT}^3/m_{AB}}}{d^2_{AB} P}$|
 |Mean mass for diffusivity|$m_{AB} = \dfrac{2m_A m_B}{m_A+m_B}$|
 |Mean distance for diffusivity|$d_{AB} = \frac{1}{2}(d_A + d_B)$|
 |Prandtl number of monoatomic ideal gas|$\mathrm{Pr}_{\text{mono}} = 1$|
