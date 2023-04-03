@@ -71,36 +71,6 @@ layout: default-with-comments
 |CSTR|- Good T control|- Hard to get high conversion|
 |PFR|- Easy maintenance <br/> - High conversion per unit volume|- Difficult for T control|
 
-## Stoichiometry
-
-### Stoichiometric table
-
-|Species|Initial|Change|Remaining|
-|-:|:-|:-|:-|
-|$\ce{A}$|$n_{{A}0}$|$-n_{A0}X$|$n_A = n_{A0}(1-X)$|
-|$\ce{B}$|$n_{B0}$|$-\frac{b}{a}n_{A0}X$|$n_B = n_{A0}(\Theta_B - \frac{b}{a}X)$|
-|$\ce{C}$|$n_{C0}$|$\frac{c}{a}n_{A0}X$|$n_C = n_{A0}(\Theta_C + \frac{c}{a}X)$|
-|$\ce{D}$|$n_{D0}$|$\frac{d}{a}n_{A0}X$|$n_D = n_{A0}(\Theta_D + \frac{d}{a}X)$|
-|$\ce{I}$|$n_{I0}$|$0$|$n_I = n_{I0}$|
-|Total|$n_{T0}$|$\delta n_{A0}X$|$n_T = n_{T0} + \delta n_{A0}X$|
-
-|Description|Equations|
-|-:|:-|
-|Sample reaction|$\color{blue}\ce{A + \dfrac{b}{a} B -> \dfrac{c}{a}C + \dfrac{d}{a}D}$|
-|$\dfrac{\text{total mol change}}{\text{mol A reacted}}$|$\delta = \sum \nu_i = \dfrac{d}{a} + \dfrac{c}{a} - \dfrac{b}{a} - 1$|
-|$\dfrac{\text{mol Z initially}}{\text{mol A initially}}$|$\Theta_Z = \dfrac{n_{Z0}}{n_{A0}} = \dfrac{\dot{n}\_{Z0}}{\dot{n}\_{A0}}= \dfrac{y_{Z0}}{y_{A0}}= \dfrac{C_{Z0}}{C_{A0}}$|
-|$\dfrac{\text{total mol change for } X = 1}{\text{mol feed}}$|$\varepsilon = y_{A0}\delta = \dfrac{\dot{n}\_{Tf} - \dot{n}\_{T0}}{\dot{n}\_{T0}}$|
-|Concentration|$C_i = \dfrac{n_i}{V} = \dfrac{\dot{n}_i}{\dot{V}}$|
-|Molar fraction|$y_i = \dfrac{\dot{n}\_i}{\dot{n}\_T}$|
-|Pressure ratio|$p = \dfrac{P}{P_0}$|
-
-|Description|Equations|
-|-:|:-|
-|Molar flow rate|$\dot{n}\_i = \dot{n}\_{A0} (\Theta_i - \nu_i X)$|
-|Concentration <br/> ★ Constant $PVT$|$C_i = C_{A0} (\Theta_i - \nu_i X)$|
-|Volumetric flow rate|$\begin{aligned}\dot{V} &= \dot{V}_0 \left(\dfrac{\dot{n}\_T}{\dot{n}\_{T0}}\right) \left(\dfrac{P_0}{P}\right) \left(\dfrac{T}{T_0}\right) \\\ &= \dot{V}_0 (1 + \varepsilon X)\left(\dfrac{P_0}{P}\right) \left(\dfrac{T}{T_0}\right) \end{aligned}$|
-|Concentration|$\begin{aligned}C_i &= \dfrac{\dot{n}\_i}{\dot{V}} \\\ &= C_{A0} \left(\dfrac{\dot{n}\_i}{\dot{n}\_{T}}\right) \left(\dfrac{P}{P_0}\right) \left(\dfrac{T_0}{T}\right) \\\ &= C_{A0} y_i p \left(\dfrac{T_0}{T}\right) \\\ &= \dfrac{C_{A0} (\Theta_i + \nu_i X)}{1+\varepsilon X} \left(\dfrac{P}{P_0}\right) \left(\dfrac{T_0}{T}\right) \end{aligned}$|
-
 ## Isothermal Reactor Design
 
 ### Batch reactor
