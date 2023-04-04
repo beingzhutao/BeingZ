@@ -6,6 +6,18 @@ title: "Podcast"
 ## Podcast
 *Don’t forget to leave a like and a comment to let me know what you think! 😊*
 
+🎧🎙️ #SharingMyPodcast 🙌
+
+I'm excited to share my podcast with all of you! It's been an amazing journey so far, and I can't wait to see where it takes me. I started this podcast as a way to document my life experiences, and it's turned into something much more than that.
+
+In my podcast, I share personal stories, insights, and reflections on life. It's a mix of humor, vulnerability, and authenticity that I hope will resonate with listeners. I also feature guests who share their own stories and perspectives on various topics.
+
+So if you're interested in checking out my podcast, I encourage you to give it a listen! I would love to hear your feedback and thoughts on my episodes. Let's connect and share our stories together! 🎧💻 Also, this podcast is private, it won't be shared to out the website.
+
+<br>
+
+---
+
 🎧🎙️ #PodcastLove 🙌
 
 Podcasts have become a staple in my life for so many reasons! Firstly, they're multi-task friendly. I can listen to a podcast while doing something else, like cooking, cleaning, or working out. It's a great way to make the most of my time and learn something new at the same time.
@@ -19,52 +31,6 @@ Another thing I love about podcasts is how they bring blog posts to life. I ofte
 But the best thing about podcasts? It's hard to choose just one! I love how they're one of the most flexible forms of verbal education and audio information available today. They offer endless opportunities to learn and grow, whether it's through interviews, storytelling, or educational content.
 
 Recording your life as a podcast is a great way to preserve memories, be creative, learn and grow, and be vulnerable and authentic. By documenting your experiences, thoughts, and feelings, you can relive special moments, share your story with others, reflect on what you've learned, and connect with people in a genuine way. Starting your own podcast to document your life is a fun and meaningful way to share your story and contribute to the larger conversation. Let's hit record and start sharing our stories! 🎧💻📱  #PersonalNarrative
-
----
-🎧🎙️ #SharingMyPodcast 🙌
-
-I'm excited to share my podcast with all of you! It's been an amazing journey so far, and I can't wait to see where it takes me. I started this podcast as a way to document my life experiences, and it's turned into something much more than that.
-
-In my podcast, I share personal stories, insights, and reflections on life. It's a mix of humor, vulnerability, and authenticity that I hope will resonate with listeners. I also feature guests who share their own stories and perspectives on various topics.
-
-So if you're interested in checking out my podcast, I encourage you to give it a listen! I would love to hear your feedback and thoughts on my episodes. Let's connect and share our stories together! 🎧💻
-
-<br>
-
-<body>
-  <ul id="audio-list"></ul>
-  <script>
-    const dir = "{{ site.github.url }}/assets/podcast/";
-    const audioList = document.getElementById("audio-list");
-
-    fetch(dir)
-      .then(response => response.text())
-      .then(text => {
-        const parser = new DOMParser();
-        const html = parser.parseFromString(text, "text/html");
-        const links = html.querySelectorAll("a");
-
-        links.forEach(link => {
-          const file = link.getAttribute("href");
-          if(file.endsWith(".mp3")) {
-            const listItem = document.createElement("li");
-            const audio = document.createElement("audio");
-            const source = document.createElement("source");
-
-            source.src = dir + file;
-            source.type = "audio/mpeg";
-
-            audio.appendChild(source);
-            audio.controls = true;
-
-            listItem.appendChild(audio);
-            audioList.appendChild(listItem);
-          }
-        });
-      })
-      .catch(error => console.error(error));
-  </script>
-</body>
 
 <br>
 
