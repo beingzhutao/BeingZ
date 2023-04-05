@@ -23,11 +23,15 @@ If you like photography. So, why do you enjoy photography? What inspires you to 
 
 ## Beauty of nature and plant life
 
+<img src="/assets/img/plants-pic\cherry-20230404_174603.jpg" width="100%">
+
 <img src="/assets/img/plants-pic\IMG_7366.JPG" width="100%">
 
 <img src="/assets/img/plants-pic\IMG_6561.JPG" width="100%">
 
 <img src="/assets/img/plants-pic\IMG_7330.JPG" width="100%">
+
+<img src="/assets/img/plants-pic\cherry-20230404_175037.jpg" width="100%">
 
 Shot by PowerShot G7 X
 
