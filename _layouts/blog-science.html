@@ -4,7 +4,7 @@ layout: default
 
 <div class="row g-5 mb-5">
   <div class="col-md-9 justify">
-    {% for post in site.posts-science %}
+    {% for post in site.postsscience %}
       <p><a href="/{{ post.url }}">{{ post.title }}</a> - {{ post.date | date: "%B %-d, %Y" }}</p>
     {% endfor %}
   </div>
