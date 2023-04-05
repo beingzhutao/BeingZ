@@ -5,7 +5,7 @@ layout: default
 <div class="row g-5 mb-5">
   <div class="col-md-9 justify">
     {% for post in site.posts %}
-      <p><a href="/{{ post.url }}">{{ post.title }}</a> - {{ post.date | date: "%B %-d, %Y" }}</p>
+      <p><a href="{{ site.github.url }}/{{ post.url }}">{{ post.title }}</a> - {{ post.date | date: "%B %-d, %Y" }}</p>
     {% endfor %}
   </div>
   <div class="col-md-3">
