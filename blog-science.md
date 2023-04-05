@@ -1,7 +1,16 @@
 ---
-layout: blog-science
+layout: default-with-comments
 title: "Science Blog"
 ---
 
-## Post
+## Science Blog
 *Don’t forget to leave a like and a comment to let me know what you think! 😊*
+
+
+<div class="row g-5 mb-5">
+  <div class="col-md-12 justify">
+    {% for post in site.posts-science %}
+      <p><a href="{{ site.github.url }}/{{ post.url }}">{{ post.title }}</a> - {{ post.date | date: "%B %-d, %Y" }}</p>
+    {% endfor %}
+  </div>
+</div>

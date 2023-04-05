@@ -1,5 +1,5 @@
 ---
-layout: post-science
+layout: default-with-comments
 title: "Welcome to my science blog!🔬"
 ---
 
