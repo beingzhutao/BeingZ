@@ -4,18 +4,16 @@ layout: default-with-comments
 
 ## Contact
 
-My [CV-PDF](/cv/CV-Zhutao.pdf)
+[CV-PDF](/cv/CV-Zhutao.pdf)
 
-Email: zs378@newark.rutgers.edu
+zs378@newark.rutgers.edu
 
-Department: School of Arts & Sciences-Newark
+School of Arts & Sciences-Newark
 
-Institution: Rutgers, The State University of New Jersey
+Rutgers, The State University of New Jersey
 
-I am a graduate student at Rutgers University who has a great interest in chemistry. My CV is [here](/cv/CV-Zhutao.pdf).
 
-You can visit my website [zhutaosheng.com](https://www.zhutaosheng.com/), and I am also available at the following places: [GitHub](https://github.com/zhutaosheng), [Instagram](https://www.instagram.com/zhtuao.s), [Youtube](https://www.youtube.com/@ZhutaoGuru), [Twitch](https://www.twitch.tv/zhutao_s), [ResearchGate](https://www.researchgate.net/profile/Zhutao-Sheng), [My Blogs](http://zhutaosheng.com/). 
-
+You can visit my website [zhutaosheng.com](https://www.zhutaosheng.com/), and I am also available at the [following places](/s/social-more)
 
 <br>
 
@@ -25,19 +23,20 @@ You can visit my website [zhutaosheng.com](https://www.zhutaosheng.com/), and I 
 
 <br>
 
-## Education
-### Ph.D. Biophysical Chemistry
+### Education
+
+**Ph.D. Biophysical Chemistry**
 
 Rutgers, The State University of New Jersey (Sep. 2022 - Jun. 2028 Expected). New Jersey, U.S.
 
-### B.Sc. Chemistry & Materials Science
+**B.Sc. Chemistry & Materials Science**
 
 Anhui Normal University (Sep. 2018 - Jun. 2022). Wuhu, China
 
 
 <br>
 
-## Publications
+### Publications
 **Zhutao Sheng**, Li Wang, Mengmeng Xia, Lin Zhang, Xiaojun Zhang, Guangfeng Wang. “A visible and colorimetric aptasensor for exosomes detection based enzyme-catalyzed coupling and the aggregation of L-tyrosine-capped gold nanoparticles.” Published patent, 2021. [PDF](/cv/cv-publications-pdf/a-visible-and-colorimetric-aptasensor.pdf)
 
 Tianyue Dai, **Zhutao Sheng**, Guangfeng Wang. “An aptamer-based DNA-probe sensor and its preparation method for detecting the toxin GTX 1/4.” Published patent, 2021. [PDF](/cv/cv-publications-pdf/an-aptamer-based-DNA-probesensor.pdf)
