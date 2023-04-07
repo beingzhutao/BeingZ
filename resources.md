@@ -10,7 +10,7 @@ title: "Resources"
 
 ## Check out currently writing about!
 
-I'm excited to share with you all what I'm currently writing about! Check out the [link](/s/book-check-out-currently-writing-about) to see what I'm up to. 🔗
+I'm excited to share with you all what I'm currently writing about! Check out the [link🔗](/s/book-writing-corner) to see what I'm up to. 
 
 
 ### Ebooks
