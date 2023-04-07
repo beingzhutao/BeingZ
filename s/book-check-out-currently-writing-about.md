@@ -9,5 +9,4 @@ title: "Book Resources"
 
 📚 Plus, I'll also be sharing updates on my blog so make sure to check it out! Thanks for following along on my writing journey. 🙏 
 
-
-<iframe src="https://github.com/zhutaosheng/zhutaosheng/tree/main/books" width="100%" height="800"></iframe>
+[Click this](https://github.com/zhutaosheng/zhutaosheng/tree/main/books) to check it out!
