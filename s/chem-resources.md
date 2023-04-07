@@ -1,5 +1,5 @@
 ---
-layout: home
+layout: default-with-comments
 title: "Chem Resources"
 ---
 
