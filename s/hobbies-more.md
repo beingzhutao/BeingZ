@@ -27,6 +27,7 @@ What are some of your favorite hobbies? Let me know in the comments!
     <li><a href="/s/hobbies-cooking">Cooking🍳</a></li>
     <li><a href="/s/hobbies-podcast">Podcast🎙️</a></li>
     <li><a href="/s/hobbies-writing">Writing✍️</a></li>
+    <li><a href="/s/hobbies-tennis-badminton">Tennis & Badminton🏸</a></li>
 </ul>
 </li>
 

@@ -16,6 +16,8 @@ title: Quotes
 
 ## Unorganized Quotes
 
+We don't need to live up to the expectations of others or accumulate material possessions to find happiness
+
 If you spend the same amount of time studying and growing as you do trying to impress someone, you'll be amazed at what you can achieve
 
 ## Quotes about Chemistry

@@ -40,8 +40,14 @@ Leave a comment and let me know if there's something you like or recommend! 🙌
 
 <br>
 
+
 <div class="row g-5 mb-5">
+  <div class="col-md-5">
+    {% include goodreads-widget-lifestyle-list.html %}
+  </div>
+  <div class="col-md-5">
 
-{% include goodreads-widget.html %}
+    {% include goodreads-widget-featured-list.html %}
 
+  </div>
 </div>
