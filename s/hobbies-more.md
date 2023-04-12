@@ -28,6 +28,20 @@ What are some of your favorite hobbies? Let me know in the comments!
     <li><a href="/s/hobbies-podcast">Podcast🎙️</a></li>
     <li><a href="/s/hobbies-writing">Writing✍️</a></li>
     <li><a href="/s/hobbies-tennis-badminton">Tennis & Badminton🏸</a></li>
+    
+</ul>
+</li>
+
+
+<br>
+
+
+<li>Other Hobbies
+<ul>
+    <li><a href="/s/hobbies-botany">Botany🌱</a></li>
+    <li><a href="/s/hobbies-math">Math📐</a></li>
+    <li><a href="/s/hobbies-business">Business🤝</a></li>
+    <li><a href="/s/hobbies-programming">Programming🛠️</a></li>
 </ul>
 </li>
 
