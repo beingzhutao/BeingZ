@@ -3,7 +3,7 @@ layout: home
 ---
 
 
-<li>Personal/Hobbies
+<li>Social media
 <ul>
     <li><a href="/s/qrcode-website">Website🌐</a></li>
     <li><a href="https://github.com/zhutaosheng">GitHub🐙</a></li>
