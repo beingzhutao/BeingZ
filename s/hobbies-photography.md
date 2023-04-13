@@ -23,15 +23,43 @@ If you like photography. So, why do you enjoy photography? What inspires you to 
 
 ## Beauty of nature and plant life
 
-<img src="/assets/img/plants-pic\cherry-20230404_174603.jpg" width="100%">
+<style>
+    .slideshow {
+        position: relative;
+        width: 100%;
+        height: 400px;
+        overflow: hidden;
+    }
+    .slideshow img {
+        position: absolute;
+        top: 0;
+        left: 0;
+        width: 100%;
+        height: 100%;
+        object-fit: cover;
+        transition: opacity 1s ease-in-out;
+    }
+    .slideshow img:last-child {
+        opacity: 0;
+    }
+    .slideshow:hover img:first-child {
+        opacity: 0;
+    }
+    .slideshow:hover img:last-child {
+        opacity: 1;
+    }
+</style>
+<body>
+	<div class="slideshow">
+        <img src="/assets/img/plants-pic/cherry-20230404_174603.jpg" width="100%">
+        <img src="/assets/img/plants-pic/IMG_7366.JPG" width="100%">
+        <img src="/assets/img/plants-pic/IMG_6561.JPG" width="100%">
+        <img src="/assets/img/plants-pic/IMG_7330.JPG" width="100%">
+        
+	</div>
+</body>
 
-<img src="/assets/img/plants-pic\IMG_7366.JPG" width="100%">
-
-<img src="/assets/img/plants-pic\IMG_6561.JPG" width="100%">
-
-<img src="/assets/img/plants-pic\IMG_7330.JPG" width="100%">
-
-<img src="/assets/img/plants-pic\cherry-20230404_175037.jpg" width="100%">
+<img src="/assets/img/plants-pic/cherry-20230404_175037.jpg" width="100%">
 
 Shot by PowerShot G7 X
 

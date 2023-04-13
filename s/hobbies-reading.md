@@ -5,6 +5,43 @@ title: "Reading"
 
 ## Reading
 
+
+<style>
+    .slideshow {
+        position: relative;
+        width: 100%;
+        height: 400px;
+        overflow: hidden;
+    }
+    .slideshow img {
+        position: absolute;
+        top: 0;
+        left: 0;
+        width: 100%;
+        height: 100%;
+        object-fit: cover;
+        transition: opacity 1s ease-in-out;
+    }
+    .slideshow img:last-child {
+        opacity: 0;
+    }
+    .slideshow:hover img:first-child {
+        opacity: 0;
+    }
+    .slideshow:hover img:last-child {
+        opacity: 1;
+    }
+</style>
+<body>
+	<div class="slideshow">
+        <img src="/assets/img/all-pics/animals-at-the-library" width="100%">
+        <img src="/assets/img/all-pics/animals-at-the-library-2" width="100%">
+        
+	</div>
+</body>
+
+
+
 📚📖 Since I was young, I've always loved reading books! 🤓📖 However, growing up in China, I didn't have access to many resources, so I didn't read as much as I would have liked to until college. 📚🌟
 
 During my 4 years in college, I read almost 500 books on science, novels, and more! 📚💡 After graduation, I even won the first prize for borrowing the most books from my college library. 🥇

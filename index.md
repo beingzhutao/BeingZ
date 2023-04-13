@@ -19,11 +19,9 @@ I'm also an amateur programmer, I guess.
 
 🧑‍🔬🔢 Love delving into biochemistry and computational chemistry.
 
-🧪Biochemistry is my passion, and I can't wait to see what scientific discoveries the future holds! 🔬
-
 🧩 When I'm not in the lab, you can find me climbing mountains 🧗‍♀️, hiking through nature 🌳, or diving into a good book 📚. 
 
-📚 And of course, no day is complete without some good old-fashioned reading. Whether it's a classic novel or the latest scientific paper, I'm always eager to learn more and expand my knowledge. 📖
+Attitude to my blog: Should not add more stress to your life. You don’t need to stay up late working on your blog unless you’re loving every minute of it.
 
 You can visit my website [🌐zhutaosheng.com](https://www.zhutaosheng.com), and I am also available at the following places: [🐙GitHub](https://github.com/zhutaosheng), [📷Instagram](https://www.instagram.com/zhutao.s/?utm_source=ig_embed&utm_campaign=loading), [🎥Youtube](https://www.youtube.com/@ZhutaoGuru), [📺Twitch](https://www.twitch.tv/zhutao_s), [🤖Discord](https://discord.com/users/Zhutao#4694), [📖ResearchGate](https://www.researchgate.net/profile/Zhutao-Sheng), [📝Blogs](https://www.zhutaosheng.com/blog). 
 
