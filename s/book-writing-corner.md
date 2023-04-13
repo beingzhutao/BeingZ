@@ -9,8 +9,6 @@ title: "Book Writing Corner"
 
 📚 Plus, I'll also be sharing updates on my blog so make sure to check it out! Thanks for following along on my writing journey. 🙏 
 
-[Click this](https://github.com/zhutaosheng/zhutaosheng/tree/main/books) to check it out!
-
 ## Book on Writing
 
-[THE THRILL OF THE HUNT](https://github.com/zhutaosheng/zhutaosheng/tree/main/books/The-Thrill-of-the-Hunt) - STOOPING FOR YOUR DREAM HOME
+[THE THRILL OF THE HUNT- STOOPING FOR YOUR DREAM HOME](/assets/books/The-Thrill-of-the-Hunt.pdf) - This book is not just about minimalism. It's about embracing a more sustainable and intentional way of living. [DOCX FILE](/assets/books/The-Thrill-of-the-Hunt.docx)
