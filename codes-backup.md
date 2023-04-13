@@ -12,6 +12,12 @@ permalink: /404.html
 ---
 ------------------------------------------------------
 
+commentbox
+<div class="commentbox"></div>
+<script src="https://unpkg.com/commentbox.io/dist/commentBox.min.js"></script>
+<script>commentBox('5676922793099264-proj')</script>
+------------------------------------------------------
+
 ## home-water-is-not-wet.png
 <div style="text-align:center;">
 <img src="/assets/img/home-water-is-not-wet.png" width="400" /><br />
