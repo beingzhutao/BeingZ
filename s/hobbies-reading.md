@@ -34,8 +34,8 @@ title: "Reading"
 </style>
 <body>
 	<div class="slideshow">
-        <img src="/assets/img/all-pics/animals-at-the-library" width="100%">
-        <img src="/assets/img/all-pics/animals-at-the-library-2" width="100%">
+        <img src="/assets/img/all-pics/animals-at-the-library.jpg" width="100%">
+        <img src="/assets/img/all-pics/animals-at-the-library-2.jpg" width="100%">
         
 	</div>
 </body>
