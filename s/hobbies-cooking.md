@@ -5,6 +5,40 @@ title: "Cooking"
 
 # Cooking
 
+<style>
+    .slideshow {
+        position: relative;
+        width: 100%;
+        height: 400px;
+        overflow: hidden;
+    }
+    .slideshow img {
+        position: absolute;
+        top: 0;
+        left: 0;
+        width: 100%;
+        height: 100%;
+        object-fit: cover;
+        transition: opacity 1s ease-in-out;
+    }
+    .slideshow img:last-child {
+        opacity: 0;
+    }
+    .slideshow:hover img:first-child {
+        opacity: 0;
+    }
+    .slideshow:hover img:last-child {
+        opacity: 1;
+    }
+</style>
+<body>
+	<div class="slideshow">
+        <img src="/assets/img/all-pics/cooking-2.png" width="100%">
+        <img src="/assets/img/all-pics/cooking-1.png" width="100%">
+        
+	</div>
+</body>
+
 🍜🌮🥞🍗 I cook a lot almost every day! In the morning and noon, I usually cook something like noodles, lettuce, spicy eggs, and tacos. For lunch, I go for cheese pasta and fine noodles with pepper and lettuce. In the evening, I love pancakes and fried chicken, and for dinner, it's fried pasta, elbow pasta with a big plate of chicken, and pasta butter. 
 
 I also enjoy pumpkin porridge and sweet potato with sugar. Canned corn and chicken soup are also great options, and when I'm feeling lazy, frozen pizza and bagels with cream cheese are my go-to.

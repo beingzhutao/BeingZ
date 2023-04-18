@@ -5,6 +5,39 @@ title: "Math"
 
 ## Math
 
+<style>
+    .slideshow {
+        position: relative;
+        width: 100%;
+        height: 400px;
+        overflow: hidden;
+    }
+    .slideshow img {
+        position: absolute;
+        top: 0;
+        left: 0;
+        width: 100%;
+        height: 100%;
+        object-fit: cover;
+        transition: opacity 1s ease-in-out;
+    }
+    .slideshow img:last-child {
+        opacity: 0;
+    }
+    .slideshow:hover img:first-child {
+        opacity: 0;
+    }
+    .slideshow:hover img:last-child {
+        opacity: 1;
+    }
+</style>
+<body>
+	<div class="slideshow">
+        <img src="/assets/img/all-pics/math-2.png" width="100%">
+        <img src="/assets/img/all-pics/math-1.png" width="100%">
+        
+	</div>
+</body>
 
 Ever since I was young, I've had a love for math. 🧮🤓 It's funny to think back to my childhood and remember how excited I used to get when solving math problems. I loved the challenge of it all, and the satisfaction that came with finding the solution. 
 
