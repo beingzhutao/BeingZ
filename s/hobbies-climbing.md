@@ -5,6 +5,40 @@ title: "Climbing"
 
 ## Climbing
 
+<style>
+    .slideshow {
+        position: relative;
+        width: 100%;
+        height: 400px;
+        overflow: hidden;
+    }
+    .slideshow img {
+        position: absolute;
+        top: 0;
+        left: 0;
+        width: 100%;
+        height: 100%;
+        object-fit: cover;
+        transition: opacity 1s ease-in-out;
+    }
+    .slideshow img:last-child {
+        opacity: 0;
+    }
+    .slideshow:hover img:first-child {
+        opacity: 0;
+    }
+    .slideshow:hover img:last-child {
+        opacity: 1;
+    }
+</style>
+<body>
+	<div class="slideshow">
+        <img src="/assets/img/all-pics/climbing-2.png" width="100%">
+        <img src="/assets/img/all-pics/climbing-1.png" width="100%">
+        
+	</div>
+</body>
+
 🧗‍♀️🌄🏋️‍♂️ #RockClimbing #FirstTimeExperience #GradStudent #ClimbingGym #SavingMoney #PracticeMakesPerfect
 
 The first time I went to a rock climbing gym as an adult in the USA as a graduate student, I felt like a visitor from another planet 🚀. But, I decided to give it a shot and try the first lesson in the climbing gym, and it turned out to be so attractive! 💪

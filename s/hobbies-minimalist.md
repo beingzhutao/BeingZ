@@ -5,6 +5,40 @@ title: "Minimalist"
 
 ## Minimalist
 
+<style>
+    .slideshow {
+        position: relative;
+        width: 100%;
+        height: 400px;
+        overflow: hidden;
+    }
+    .slideshow img {
+        position: absolute;
+        top: 0;
+        left: 0;
+        width: 100%;
+        height: 100%;
+        object-fit: cover;
+        transition: opacity 1s ease-in-out;
+    }
+    .slideshow img:last-child {
+        opacity: 0;
+    }
+    .slideshow:hover img:first-child {
+        opacity: 0;
+    }
+    .slideshow:hover img:last-child {
+        opacity: 1;
+    }
+</style>
+<body>
+	<div class="slideshow">
+        <img src="/assets/img/all-pics/minimalism-1.png" width="100%">
+        <img src="/assets/img/all-pics/minimalism-2.png" width="100%">
+        
+	</div>
+</body>
+
 🧐 Through minimalism, I have discovered my purpose in life and found joy in the simple things. Instead of constantly chasing after material possessions, I am now focused on experiences and relationships. 🤝
 
 💪 I am still decluttering little by little each day, and it feels great to let go of things that no longer serve a purpose in my life. It's amazing how much lighter and more organized I feel when I have less stuff. 🗑️

@@ -5,6 +5,40 @@ title: "Puzzles"
 
 ## Puzzles
 
+<style>
+    .slideshow {
+        position: relative;
+        width: 100%;
+        height: 400px;
+        overflow: hidden;
+    }
+    .slideshow img {
+        position: absolute;
+        top: 0;
+        left: 0;
+        width: 100%;
+        height: 100%;
+        object-fit: cover;
+        transition: opacity 1s ease-in-out;
+    }
+    .slideshow img:last-child {
+        opacity: 0;
+    }
+    .slideshow:hover img:first-child {
+        opacity: 0;
+    }
+    .slideshow:hover img:last-child {
+        opacity: 1;
+    }
+</style>
+<body>
+	<div class="slideshow">
+        <img src="/assets/img/all-pics/puzzles-1.png" width="100%">
+        <img src="/assets/img/all-pics/puzzles-2.jpg" width="100%">
+        
+	</div>
+</body>
+
 🧩🔍📚 Puzzles have always been a favorite pastime of mine. From mazes to Sudoku, I love the challenge of finding a solution. But one of my favorite puzzles of all time has to be solving [NMR spectrum](https://en.wikipedia.org/wiki/Nuclear_magnetic_resonance_spectroscopy)! 🧪🤓
 
 I used to practice NMR spectrum solving all the time, and I have to say, there's something incredibly satisfying about cracking the code and finding the solution. 🤩 But lately, I've been exploring other types of puzzles, like [mazes](https://krazydad.com/), [star battles](https://krazydad.com/), and [word searches.](https://thewordsearch.com/) 🌟🔠

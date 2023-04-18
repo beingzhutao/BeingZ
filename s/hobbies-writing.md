@@ -5,6 +5,40 @@ title: "Writing"
 
 ## Writing
 
+<style>
+    .slideshow {
+        position: relative;
+        width: 100%;
+        height: 400px;
+        overflow: hidden;
+    }
+    .slideshow img {
+        position: absolute;
+        top: 0;
+        left: 0;
+        width: 100%;
+        height: 100%;
+        object-fit: cover;
+        transition: opacity 1s ease-in-out;
+    }
+    .slideshow img:last-child {
+        opacity: 0;
+    }
+    .slideshow:hover img:first-child {
+        opacity: 0;
+    }
+    .slideshow:hover img:last-child {
+        opacity: 1;
+    }
+</style>
+<body>
+	<div class="slideshow">
+        <img src="/assets/img/all-pics/writing-1.png" width="100%">
+        <img src="/assets/img/all-pics/writing-2.png" width="100%">
+        
+	</div>
+</body>
+
 check out my  [writing corner page](/s/book-writing-corner)
 
 ✍️💭 Whether it's a new blog post, an article, or even a book, this is where I love to create and share my work. 

@@ -5,6 +5,40 @@ title: "Programming"
 
 ## Programming
 
+<style>
+    .slideshow {
+        position: relative;
+        width: 100%;
+        height: 400px;
+        overflow: hidden;
+    }
+    .slideshow img {
+        position: absolute;
+        top: 0;
+        left: 0;
+        width: 100%;
+        height: 100%;
+        object-fit: cover;
+        transition: opacity 1s ease-in-out;
+    }
+    .slideshow img:last-child {
+        opacity: 0;
+    }
+    .slideshow:hover img:first-child {
+        opacity: 0;
+    }
+    .slideshow:hover img:last-child {
+        opacity: 1;
+    }
+</style>
+<body>
+	<div class="slideshow">
+        <img src="/assets/img/all-pics/programming-1.png" width="100%">
+        <img src="/assets/img/all-pics/programming-2.png" width="100%">
+        
+	</div>
+</body>
+
 My Journey into Programming
 
 As a high school student, I was always curious about the technology behind the gadgets we use every day. I was particularly interested in the programming languages that power these devices, and I started exploring Java programming as a way to understand how Android phones work. Little did I know that this curiosity would eventually lead me to a deep love for programming and a desire to combine it with my passion for chemistry.

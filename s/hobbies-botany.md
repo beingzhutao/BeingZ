@@ -5,6 +5,40 @@ title: "Botany"
 
 ## Botany
 
+<style>
+    .slideshow {
+        position: relative;
+        width: 100%;
+        height: 400px;
+        overflow: hidden;
+    }
+    .slideshow img {
+        position: absolute;
+        top: 0;
+        left: 0;
+        width: 100%;
+        height: 100%;
+        object-fit: cover;
+        transition: opacity 1s ease-in-out;
+    }
+    .slideshow img:last-child {
+        opacity: 0;
+    }
+    .slideshow:hover img:first-child {
+        opacity: 0;
+    }
+    .slideshow:hover img:last-child {
+        opacity: 1;
+    }
+</style>
+<body>
+	<div class="slideshow">
+        <img src="/assets/img/all-pics/botany-1.png" width="100%">
+        <img src="/assets/img/all-pics/botany-2.png" width="100%">
+        
+	</div>
+</body>
+
 I love hiking! Every time I hit the trails, I can't help but be amazed by the diverse plant life that surrounds me. 🌳🌸🌻
 
 On my last hike, I couldn't resist taking photos of all the beautiful flowers and trees that I came across. I was struck by how much there is to learn about the world of botany, which is the study of plants and their structures, growth, and physiology. 🌸🌿🧐
