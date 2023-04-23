@@ -1,5 +1,5 @@
 ---
-layout: default-with-comments
+layout: default
 ---
 
 ## Contact
@@ -11,9 +11,6 @@ zs378@newark.rutgers.edu
 School of Arts & Sciences-Newark
 
 Rutgers, The State University of New Jersey
-
-
-You can visit my website [zhutaosheng.com](https://www.zhutaosheng.com/), and I am also available at the [following places](/s/social-more)
 
 <br>
 

@@ -1,5 +1,5 @@
 ---
-layout: default-with-comments
+layout: home-with-comments
 title: "Science Blog"
 ---
 

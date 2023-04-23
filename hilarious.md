@@ -1,21 +1,17 @@
 ---
-layout: home
-title: "Home"
+layout: home-with-comments
 ---
 
-## Homepage 👋
-
-*如果你想获得一生的快乐，那么帮助别人*
-
-*EN: If you want happiness for a lifetime, help somebody*
-
-*ES: Si quieres obtener una vida de felicidad, entonces ayuda a los demás*
+## Find Hilarious
 
 
 <body>
 	<div class="slideshow">
-		<img src="/assets/img/home-pic-1.jpg" width="100%">
-        <img src="/assets/img/home-pic-2.jpg" width="100%">
+		<img src="/assets/img/all-pics/chemistry-joke-1.png" width="100%">
+        <img src="/assets/img/all-pics/chemistry-joke-2.png" width="100%">
+        <img src="/assets/img/all-pics/chemistry-joke-3.png" width="100%">
+        <img src="/assets/img/all-pics/chemistry-joke-4.png" width="100%">
+        <img src="/assets/img/all-pics/chemistry-joke-5.png" width="100%">
 	</div>
 </body>
 
@@ -49,3 +45,4 @@ title: "Home"
         opacity: 1;
     }
 </style>
+
