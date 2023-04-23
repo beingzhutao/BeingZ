@@ -7,11 +7,11 @@ layout: home-with-comments
 
 <body>
 	<div class="slideshow">
-		<img src="/assets/img/all-pics/chemistry-joke-1.png" width="100%">
-        <img src="/assets/img/all-pics/chemistry-joke-2.png" width="100%">
-        <img src="/assets/img/all-pics/chemistry-joke-3.png" width="100%">
-        <img src="/assets/img/all-pics/chemistry-joke-4.png" width="100%">
-        <img src="/assets/img/all-pics/chemistry-joke-5.png" width="100%">
+		<img src="/assets/img/all-pics/chemistry-joke-1.png" width="100%" height:765px>
+        <img src="/assets/img/all-pics/chemistry-joke-2.png" width="100%" height:765px>
+        <img src="/assets/img/all-pics/chemistry-joke-3.png" width="100%" height:765px>
+        <img src="/assets/img/all-pics/chemistry-joke-4.png" width="100%" height:765px>
+        <img src="/assets/img/all-pics/chemistry-joke-5.png" width="100%" height:765px>
 	</div>
 </body>
 
