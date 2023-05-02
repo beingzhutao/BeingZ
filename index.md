@@ -9,6 +9,8 @@ title: "Home"
 
 *EN: If you want happiness for a lifetime, help somebody*
 
+*Englanto: If you waunt haipinis for e laiiftaiim hailp sambaody*
+
 *ES: Si quieres obtener una vida de felicidad, entonces ayuda a los demás*
 
 
