@@ -14,19 +14,16 @@ title: "Test"
 <p><a href="{{ site.github.url }}">site.github.url</a></p>
 <p><a href="{{ github.url }}">github.url</a></p>
 <p><a href="{{ site.url }}">site.url</a></p>
-
-<p><a href="{{ site.github }}">site.github</a></p>
 <p><a href="{{ site }}">site</a></p>
 <p><a href="{{ url }}">url</a></p>
 <p><a href="{{ url.site }}">url.site</a></p>
 
 
 
-
 <div class="row g-5 mb-5">
   <div class="col-md-12">
     {% for post in site.s %}
-      <p><a href="{{ site.github.url }}/{{ post.url }}">{{ post.title }}</a> - {{ post.date | date: "%B %-d, %Y" }}</p>
+      <p><a href="{{ post.url }}">{{ post }}site.s</a></p>
     {% endfor %}
   </div>
 </div>
@@ -34,7 +31,7 @@ title: "Test"
 <div class="row g-5 mb-5">
   <div class="col-md-12">
     {% for post in site.s %}
-      <p><a href="{{ post.url }}">{{ post.title }}</a> - {{ post.date | date: "%B %-d, %Y" }}</p>
+      <p><a href="{{ post.url }}">{{ post }}</a></p>
     {% endfor %}
   </div>
 </div>
