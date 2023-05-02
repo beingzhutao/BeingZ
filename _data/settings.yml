@@ -10,5 +10,5 @@ advisors:
 - {name: 'Guangfeng Wang', title: 'Assistant Professor', department: 'School of Chemistry and Materials Science', institution: 'Anhui Normal University | AHNU', institution_address: 'Wuhu, Anhui, China', email: 'wangyuz@mail.ahnu.edu.cn', image: 'assets/img/wangguangfeng.jpg', url: 'https://www.researchgate.net/profile/Guangfeng-Wang-2'}
 
 social:
-- {icon: 'github', link: 'https://github.com/zhutaosheng/zhutaosheng.github.io/edit/main/{{ page.path }}'}
+- {icon: 'github', link: 'https://github.com/zhutaosheng'}
 - {icon: 'instagram', link: 'https://www.instagram.com/zhutao.s/?utm_source=ig_embed&utm_campaign=loading'}
