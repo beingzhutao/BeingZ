@@ -1,6 +1,24 @@
 
 
 ```
+user clicks on the "Edit on GitHub" link, they will be taken to the GitHub editor for the file that corresponds to the page they are currently viewing. 
+
+<a href="https://github.com/zhutaosheng/zhutaosheng.github.io/edit/main/{{ page.path }}" target="_blank" rel="noopener noreferrer">  Edit</a>
+
+<footer class="pt-5 my-5 text-muted border-top">
+  <div class="row">
+    <div class="col-md-6 text-end social-media-icons">
+      {% for item in site.data.settings.social %}
+        <a href="{{ item.link }}" class="ms-3 fs-5"><i class="fab fa-{{ item.icon }}"></i></a>
+      {% endfor %}
+      <a href="https://github.com/zhutaosheng/zhutaosheng.github.io/edit/main/{{ page.path }}" target="_blank" rel="noopener noreferrer" class="ms-3 fs-5"><i class="fab fa-github"></i></a>
+      <a href="https://github.com/zhutaosheng/zhutaosheng.github.io/edit/main/{{ page.path }}" target="_blank" rel="noopener noreferrer">  Edit</a>
+    </div>
+  </div>
+</footer>
+
+
+------------------------------------------------------
 
 url: "https://www.zhutaosheng.com" # the base hostname & protocol for your site, e.g. http://example.com
 baseurl: "/blog" # the subpath of your site, e.g. /blog
