@@ -7,10 +7,10 @@ title: "Test"
 
 <a href="https://www.zhutaosheng.com/contact">Contact Us</a>
 
-<a href="https://github.com/zhutaosheng/zhutaosheng.github.io/edit/main{{ url.path }}" target="_blank" rel="noopener noreferrer">Edit on GitHub</a>
+<a href="https://github.com/zhutaosheng/zhutaosheng.github.io/edit/{{ url.path }}" target="_blank" rel="noopener noreferrer">Edit on GitHub</a>
 this will return https://www.zhutaosheng.com/edit/maintest.md
 
-<a href="https://github.com/zhutaosheng/zhutaosheng.github.io/edit/main/{{ url.path }}" target="_blank" rel="noopener noreferrer">Edit on GitHub</a>
+<a href="https://github.com/zhutaosheng/zhutaosheng.github.io/edit/main/{{ page.path }}" target="_blank" rel="noopener noreferrer">Edit on GitHub</a>
 
 
 <p><a href="{{ page.url }}">{{ page.url | remove: '/' }}</a> filter is used to remove the forward slash from the end of the page URL.</p>
