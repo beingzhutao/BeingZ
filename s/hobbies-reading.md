@@ -42,9 +42,7 @@ title: "Reading"
 
 
 
-📚📖 Since I was young, I've always loved reading books! 🤓📖 However, growing up in China, I didn't have access to many resources, so I didn't read as much as I would have liked to until college. 📚🌟
-
-During my 4 years in college, I read almost 500 books on science, novels, and more! 📚💡 After graduation, I even won the first prize for borrowing the most books from my college library. 🥇
+📚📖 Since I was young, I've always loved reading books! 🤓
 
 Today, I still love to read books, but I prefer to read them online as PDFs or ePubs because I'm a minimalist. 🌿 Another reason is that I don't know where I'll end up in the future. But if I ever start a family, you can bet that I'll be stocking up on paperback books to fill my shelves! 📚👨‍👩‍👧
 
