@@ -5,13 +5,8 @@ title: "Home"
 
 ## Homepage 👋
 
-*如果你想获得一生的快乐，那么帮助别人*
+*It was the best of times, it was the worst of times, it was the age of wisdom, it was the age of foolishness, it was the epoch of belief, it was the epoch of incredulity, it was the season of Light, it was the season of Darkness, it was the spring of hope, it was the winter of despair.*
 
-*EN: If you want happiness for a lifetime, help somebody*
-
-*Englanto: If you waunt haipinis for e laiiftaiim hailp sambaody*
-
-*ES: Si quieres obtener una vida de felicidad, entonces ayuda a los demás*
 
 
 <body>
