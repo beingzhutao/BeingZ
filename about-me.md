@@ -10,7 +10,7 @@ I am a graduate student at Rutgers University who has a great interest in chemis
 
 🧩 When I'm not in the lab, you can find me hiking through nature 🌳, climbing mountains 🧗‍♀️, or diving into a good book 📚. 
 
-I am also available at the following places: [🐙GitHub](https://github.com/zhutaosheng), [📷Instagram](https://www.instagram.com/zhutao.s/?utm_source=ig_embed&utm_campaign=loading), [🎥Youtube](https://www.youtube.com/@ZhutaoGuru), [📺Twitch](https://www.twitch.tv/zhutao_s), [🤖Discord](https://discord.com/users/Zhutao#4694), [📖ResearchGate](https://www.researchgate.net/profile/Zhutao-Sheng), [📝Blogs](https://www.zhutaosheng.com/blog). 
+I am also available at the following places: [🐙GitHub](https://github.com/zhutaosheng), [📷Instagram](https://www.instagram.com/zhutao.s/?utm_source=ig_embed&utm_campaign=loading), [📺Twitch](https://www.twitch.tv/zhutao_s), [🤖Discord](https://discord.com/users/Zhutao#4694), [📖ResearchGate](https://www.researchgate.net/profile/Zhutao-Sheng), [📝Blogs](https://www.zhutaosheng.com/blog). 
 
 ## Photos update!📸 
 
