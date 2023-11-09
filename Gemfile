@@ -1,4 +1,4 @@
 # frozen_string_literal: true
 source "https://rubygems.org"
+gem install faraday_middleware-request-retry -v 2.0.0
 gemspec
-gem install faraday_middleware-request-retry -v 0.2.0
