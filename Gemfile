@@ -1,3 +1,4 @@
 # frozen_string_literal: true
 source "https://rubygems.org"
-gem 'rails', '7.1.1'
+gemspec
+gem 'faraday_middleware-request-retry', '~> 0.2.0'
