@@ -2,17 +2,30 @@
 layout: home
 ---
 
-## More Hobbies
+## Hobbies
 
 Outside of chemistry
 
+I'm currently relishing thrilling adventures like camping, skiing, and hiking, while also pursuing hobbies such as photography, DJing. Life is an exciting blend of outdoor escapades and creative passions that keeps me endlessly enthralled. 
 
-I'm currently relishing thrilling adventures like camping, skiing, fishing, and hiking, while also pursuing hobbies such as singing, DJing, and film appreciation. Life is an exciting blend of outdoor escapades and creative passions that keeps me endlessly enthralled. 
+Going on an Adventure!
+
 
 🧩📚🕹️ Hobbies are so important for relaxing and recharging! Some of my favorites include puzzles, reading, and games. When I'm feeling adventurous, I love hiking, climbing, and exploring new places with my camera 🌄🧗‍♂️📸.
 
 
-<li>Personal/Hobbies
+<li>Favorite Part
+<ul>
+    <li><a href="/s/hobbies-ski">Ski⛷️</a></li>
+    <li><a href="/s/hobbies-hiking">Hiking🌄</a></li>
+    <li><a href="/s/hobbies-camping">Camping⛺</a></li>
+    <li><a href="/s/hobbies-paragliding">Paragliding</a></li>
+    <li><a href="/s/hobbies-reading">Reading📚</a></li>
+    <li><a href="/s/hobbies-photography">Photography📸</a></li> 
+</ul>
+</li>
+
+<li>Lesure Time
 <ul>
     <li><a href="/s/hobbies-puzzles">Puzzles🧩</a></li>
     <li><a href="/s/hobbies-reading">Reading📚</a></li>
@@ -29,17 +42,16 @@ I'm currently relishing thrilling adventures like camping, skiing, fishing, and 
     <li><a href="/s/hobbies-podcast">Podcast🎙️</a></li>
     <li><a href="/s/hobbies-writing">Writing✍️</a></li>
     <li><a href="/s/hobbies-tennis-badminton">Tennis & Badminton🏸</a></li>
+    <li><a href="/s/hobbies-roller-skate">Roller Skate🛼</a></li>
     
 </ul>
 </li>
 
-
 <br>
 
 
-<li>Other Hobbies
+<li>Other Stuffs
 <ul>
-    <li><a href="/s/hobbies-botany">Botany🌱</a></li>
     <li><a href="/s/hobbies-math">Math📐</a></li>
     <li><a href="/s/hobbies-business">Business🤝</a></li>
     <li><a href="/s/hobbies-programming">Programming🛠️</a></li>
