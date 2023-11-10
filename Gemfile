@@ -2,7 +2,7 @@
 
 gem "jekyll", '~> 4.2'
 source "https://rubygems.org"
-
+gem install faraday-retry
 
 # gem "rails"
 
