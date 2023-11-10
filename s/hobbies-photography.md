@@ -61,17 +61,3 @@ If you like photography. So, why do you enjoy photography? What inspires you to 
 
 <img src="/assets/img/plants-pic/cherry-20230404_175037.jpg" width="100%">
 
-Shot by PowerShot G7 X
-
-## Photos update!📸 
-
-*leave a like and a comment to let me know what you think! 😊* [@zhtuao.s](https://www.instagram.com/zhutao.s/?utm_source=ig_embed&utm_campaign=loading)
-
-<div class="row g-5 mb-5">
-
-{% include instagram-SnapWidget.html %}
-
-</div>
-
-
-
