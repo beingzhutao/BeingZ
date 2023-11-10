@@ -1,9 +1,4 @@
-source "https://rubygems.org"
+# frozen_string_literal: true
 
-gem "jekyll"
-gem 'faraday-retry', '~> 2.2'
-gem 'bundler', '~> 2.4', '>= 2.4.22'
-group :jekyll_plugins do
-  gem "jekyll-feed"
-  gem "jekyll-seo-tag"
-end
+source "https://rubygems.org"
+gemspec
