@@ -1,10 +1,5 @@
 ---
 layout: post
-<<<<<<< HEAD
-title: "Nature has always fascinated me, especially trees and plants🌱"
----
-
-=======
 title: "I've realized that this habit of always seeking the "best" solution was actually holding me back🛑"
 ---
 

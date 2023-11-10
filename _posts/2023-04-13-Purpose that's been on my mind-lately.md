@@ -1,10 +1,5 @@
 ---
 layout: post
-<<<<<<< HEAD
-title: "Nature has always fascinated me, especially trees and plants🌱"
----
-
-=======
 title: "Purpose that's been on my mind lately💜"
 ---
 

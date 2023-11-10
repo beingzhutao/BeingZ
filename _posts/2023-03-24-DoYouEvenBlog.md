@@ -25,14 +25,3 @@ You can visit my website [🌐zhutaosheng.com](https://www.zhutaosheng.com), and
 In conclusion, I just want to say a huge thank you to everyone who has supported me thus far. Creating a blog has been an incredible experience, and I can't wait to see what the future holds. So, here's to new beginnings and endless possibilities!  
 
 #newblog #website #codinglife #minimalist #thankyouAI #followme #support #excited #journaling #fun #learning #personalgrowth
-
-## Instagram update!📸 
-
-*Don't forget to leave a like and a comment to let me know what you think! 😊* [@zhtuao.s](https://www.instagram.com/zhtuao.s)
-
-<div class="row g-5 mb-5">
-
-{% include instagram-SnapWidget.html %}
-
-</div>
-
