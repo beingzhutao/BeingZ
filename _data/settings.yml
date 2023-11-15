@@ -1,7 +1,7 @@
 menu:
 - {name: 'Home', url: '/'}
 - {name: 'Blog', url: '/blog'}
-- {name: 'Q&A', url: '/faqs'}
+- {name: 'Q&A', url: '/s/faqs'}
 - {name: 'About me', url: '/about-me'}
 - {name: 'Gallery', url: '/gallery'}
 
