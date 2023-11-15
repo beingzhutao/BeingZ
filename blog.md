@@ -1,5 +1,5 @@
 ---
-layout: home-with-comments
+layout: home
 title: "Blog"
 ---
 
