@@ -1,7 +1,5 @@
 url: "https://www.zhutaosheng.com" # the base hostname & protocol for your site, e.g. http://example.com
 title: "Zhutao Sheng" # the name of your site
 description: "The only way to do great work is to love what you do - Steve Jobs"
-
----
 permalink: /404.html
----
+
