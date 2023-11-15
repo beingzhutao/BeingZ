@@ -6,7 +6,7 @@ layout: home
 <li>Social media
 <ul>
     <li><a href="https://github.com/zhutaosheng">GitHub🐙</a></li>
-    <li><a href="/s/social-instagram-updates">Instagram📷</a></li>
+    <li><a href="https://www.instagram.com/zhutao.s/?utm_source=ig_embed&utm_campaign=loading">Instagram📷</a></li>
     <li><a href="/s/social-discord">Discord🤖</a></li>
     <li><a href="https://www.researchgate.net/profile/Zhutao-Sheng">ResearchGate📖</a></li>
     <li><a href="https://www.goodreads.com/user/show/157526677-zhutao">Goodreads page📚</a></li>
