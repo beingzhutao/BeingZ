@@ -4,6 +4,10 @@ layout: home
 
 ## Gallery
 
+📸 Check out my gallery! It's a mix of landscapes, memories, and portraits—all from nature and my surroundings. 
+
+I love it, and I'd love for you to see more. Click on the picture to see more snaps! 🌿🖼️
+
 <head>
 	<title>Image with Text Overlay</title>
 	<style>
