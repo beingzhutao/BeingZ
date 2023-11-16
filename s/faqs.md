@@ -5,44 +5,13 @@ title: "FAQs"
 
 ## Frequently Asked Questions
 
-<style>
-    .slideshow {
-        position: relative;
-        width: 100%;
-        height: 400px;
-        overflow: hidden;
-    }
-    .slideshow img {
-        position: absolute;
-        top: 0;
-        left: 0;
-        width: 100%;
-        height: 100%;
-        object-fit: cover;
-        transition: opacity 1s ease-in-out;
-    }
-    .slideshow img:last-child {
-        opacity: 0;
-    }
-    .slideshow:hover img:first-child {
-        opacity: 0;
-    }
-    .slideshow:hover img:last-child {
-        opacity: 1;
-    }
-</style>
 <body>
-	<div class="slideshow">
-        <img src="/assets/img/all-pics/faq-pic-2.png" width="100%">
+	<div>
         <img src="/assets/img/all-pics/faq-pic-1.png" width="100%">
-        
 	</div>
 </body>
 
 *This is a compilation of answers to questions that I have been asked over time.*
-
-<br>
-
 
 [My Career:](/s/faqs-my-career) How did I get interested in biochemistry, computational chemistry, and math? What are some of the interesting projects I've worked on?
 

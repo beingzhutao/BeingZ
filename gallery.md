@@ -32,7 +32,7 @@ I love it, and I'd love for you to see more. Click on the picture to see more sn
   <div class="image-container">
 	<img src="/assets/img/gallery-index-pics/gallery-PortraitTreasuredBlack_Labrador_Retriever_-_Male_IMG_3323.jpg" width="100%">
 	<div class="text-overlay">
-	  Portrait Treasured<br><br>
+	  Portrait Treasured<br>
 	  Click for more picture
 	</div>
   </div>
@@ -43,7 +43,7 @@ I love it, and I'd love for you to see more. Click on the picture to see more sn
 	<div class="image-container">
 	  <img src="/assets/img/gallery-index-pics/gallery-LandscapeTreasured-20230506_114802.jpg" width="100%">
 	  <div class="text-overlay">
-		Landscape Treasured<br><br>
+		Landscape Treasured<br>
 		Click for more picture
 	  </div>
 	</div>
@@ -54,7 +54,7 @@ I love it, and I'd love for you to see more. Click on the picture to see more sn
 	<div class="image-container">
 		<img src="/assets/img/gallery-index-pics/gallery-MemoriesUnfoldedIMG_20200810_122117R.jpg" width="100%">
 		<div class="text-overlay">
-		Memories Unfolded<br><br>
+		Memories Unfolded<br>
 		Click for more picture
 		</div>
 	</div>
