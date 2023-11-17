@@ -12,6 +12,8 @@ Check my [advisors](/s/advisors).
 
 🧩 When I'm not in the lab, you'll catch me chasing trails through lush forests 🌳, carving slopes on skis, seeking thrilling adventures, or lost in the pages of a captivating book 📚. Life's all about exploring every puzzle piece of excitement! 🏞️❄️📖 Also You can check my [hobbies](/s/hobbies-more).
 
+Check my [first blog](https://www.zhutaosheng.com//2023/01/01/Welcome-to-my-world-view.html).
+
 Photos update!📸 [@zhtuao.s](https://www.instagram.com/zhutao.s/?utm_source=ig_embed&utm_campaign=loading)
 
 
