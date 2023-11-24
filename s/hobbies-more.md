@@ -20,6 +20,7 @@ Going on an Adventure!
     <li><a href="/s/hobbies-hiking">Hiking🌄</a></li>
     <li><a href="/s/hobbies-camping">Camping⛺</a></li>
     <li><a href="/s/hobbies-paragliding">Paragliding</a></li>
+    <li><a href="/s/hobbies-rollercoaster">Roller coaster</a></li>
     <li><a href="/s/hobbies-reading">Reading📚</a></li>
     <li><a href="/s/hobbies-photography">Photography📸</a></li> 
 </ul>

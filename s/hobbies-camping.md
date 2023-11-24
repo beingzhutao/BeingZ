@@ -5,6 +5,40 @@ title: "Camping"
 
 ## Camping
 
+<style>
+    .slideshow {
+        position: relative;
+        width: 100%;
+        height: 400px;
+        overflow: hidden;
+    }
+    .slideshow img {
+        position: absolute;
+        top: 0;
+        left: 0;
+        width: 100%;
+        height: 100%;
+        object-fit: cover;
+        transition: opacity 1s ease-in-out;
+    }
+    .slideshow img:last-child {
+        opacity: 0;
+    }
+    .slideshow:hover img:first-child {
+        opacity: 0;
+    }
+    .slideshow:hover img:last-child {
+        opacity: 1;
+    }
+</style>
+<body>
+	<div class="slideshow">
+        <img src="/assets/img/all-pics/camping-1.jpg" width="100%">
+        <img src="/assets/img/all-pics/camping-2.jpg" width="100%">
+        
+	</div>
+</body>
+
 Camping is my ultimate escape, my sanctuary amidst the chaos. I may not have all the fancy camping equipment in the world, but that doesn't stop me from venturing into the wild and cherishing every moment. 🏞️✨
 
 🌟 The Great Outdoors 🌟

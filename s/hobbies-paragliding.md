@@ -5,6 +5,14 @@ title: "Paragliding"
 
 ## Paragliding
 
+
+<body>
+        <img src="/assets/img/all-pics/paragliding-1.gif" width="100%">
+        
+</body>
+
+
+
 Paragliding has been an exhilarating journey for me, unlike anything else I've ever experienced. 🪂 From the moment I took my first leap into the sky, I was hooked. It all started when I decided to try paragliding, and it completely changed my perspective on adventure and the great outdoors. 🌄
 
 The thrill of soaring through the skies, with just a canopy and a harness, is indescribable. I thought I'd seen it all when I tried skydiving from a jet, and that was indeed pretty cool. The adrenaline rush was off the charts, and I felt like I was on top of the world. But paragliding is different. 🪂

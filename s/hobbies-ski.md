@@ -5,6 +5,43 @@ title: "Skiing"
 
 ## Skiing
 
+
+<style>
+    .slideshow {
+        position: relative;
+        width: 100%;
+        height: 400px;
+        overflow: hidden;
+    }
+    .slideshow img {
+        position: absolute;
+        top: 0;
+        left: 0;
+        width: 100%;
+        height: 100%;
+        object-fit: cover;
+        transition: opacity 1s ease-in-out;
+    }
+    .slideshow img:last-child {
+        opacity: 0;
+    }
+    .slideshow:hover img:first-child {
+        opacity: 0;
+    }
+    .slideshow:hover img:last-child {
+        opacity: 1;
+    }
+</style>
+<body>
+	<div class="slideshow">
+        <img src="/assets/img/all-pics/skiing-1.jpg" width="100%">
+        <img src="/assets/img/all-pics/skiing-2.jpg" width="100%">
+        
+	</div>
+</body>
+
+
+
 Skiing has been a passion of mine since 2023, and it's more than just a hobby; it's a thrilling adventure that I can't get enough of! ❄️⛷️
 
 Ever since I first hit the slopes, I've been addicted to the feeling of speed as I descend from the mountain's summit. The exhilaration of launching myself down the snowy peaks, the wind in my face, and the world whizzing by—it's an experience like no other! 🏔️💨
