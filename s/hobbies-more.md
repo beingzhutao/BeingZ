@@ -22,7 +22,8 @@ Going on an Adventure!
     <li><a href="/s/hobbies-paragliding">Paragliding🪂</a></li>
     <li><a href="/s/hobbies-rollercoaster">Roller coaster🎢</a></li>
     <li><a href="/s/hobbies-reading">Reading📚</a></li>
-    <li><a href="/s/hobbies-photography">Photography📸</a></li> 
+    <li><a href="/s/hobbies-photography">Photography📸</a></li>
+    <li><a href="/s/hobbies-spanish">Spanish 🇪🇸</a></li>
 </ul>
 </li>
 
