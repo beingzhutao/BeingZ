@@ -28,7 +28,7 @@ I love it, and I'd love for you to see more. Click on the picture to see more sn
   </head>
 
 <body>
-<a href="https://photos.app.goo.gl/vKwR8zoj4KjZcWg36">
+<a href="https://photos.app.goo.gl/vKwR8zoj4KjZcWg36" target="_blank">
   <div class="image-container">
 	<img src="/assets/img/gallery-index-pics/gallery-PortraitTreasuredBlack_Labrador_Retriever_-_Male_IMG_3323.jpg" width="100%">
 	<div class="text-overlay">
@@ -39,7 +39,7 @@ I love it, and I'd love for you to see more. Click on the picture to see more sn
 </a>
 <br>
 
-<a href="https://photos.app.goo.gl/xMeoUZyzrBLRkrbR7">
+<a href="https://photos.app.goo.gl/xMeoUZyzrBLRkrbR7" target="_blank">
 	<div class="image-container">
 	  <img src="/assets/img/gallery-index-pics/gallery-LandscapeTreasured-20230506_114802.jpg" width="100%">
 	  <div class="text-overlay">
@@ -50,7 +50,7 @@ I love it, and I'd love for you to see more. Click on the picture to see more sn
 </a>
 <br>
 
-<a href="https://photos.app.goo.gl/tiu9QaZPbuThCojbA">
+<a href="https://photos.app.goo.gl/tiu9QaZPbuThCojbA" target="_blank">
 	<div class="image-container">
 		<img src="/assets/img/gallery-index-pics/gallery-MemoriesUnfoldedIMG_20200810_122117R.jpg" width="100%">
 		<div class="text-overlay">

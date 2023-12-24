@@ -10,29 +10,23 @@ I'm currently relishing thrilling adventures like camping, skiing, and hiking, w
 
 Going on an Adventure!
 
-
-🧩📚🕹️ Hobbies are so important for relaxing and recharging! Some of my favorites include puzzles, reading, and games. When I'm feeling adventurous, I love hiking, climbing, and exploring new places with my camera 🌄🧗‍♂️📸.
-
-
-<li>Favorite Part
+<li>Favorite
 <ul>
-    <li><a href="/s/hobbies-ski">Ski⛷️</a></li>
     <li><a href="/s/hobbies-hiking">Hiking🌄</a></li>
-    <li><a href="/s/hobbies-camping">Camping⛺</a></li>
     <li><a href="/s/hobbies-paragliding">Paragliding🪂</a></li>
     <li><a href="/s/hobbies-rollercoaster">Roller coaster🎢</a></li>
+    <li><a href="/s/hobbies-ski">Ski⛷️</a></li>
     <li><a href="/s/hobbies-reading">Reading📚</a></li>
-    <li><a href="/s/hobbies-photography">Photography📸</a></li>
-    <li><a href="/s/hobbies-spanish">Spanish 🇪🇸</a></li>
+    
 </ul>
 </li>
 
 <li>Lesure Time
 <ul>
+    <li><a href="/s/hobbies-spanish">Spanish 🇪🇸</a></li>
     <li><a href="/s/hobbies-puzzles">Puzzles🧩</a></li>
-    <li><a href="/s/hobbies-reading">Reading📚</a></li>
-    <li><a href="/s/hobbies-hiking">Hiking🌄</a></li>
     <li><a href="/s/hobbies-climbing">Climbing🧗‍♂️</a></li>
+    <li><a href="/s/hobbies-camping">Camping⛺</a></li>
     <li><a href="/s/hobbies-photography">Photography📸</a></li>
     <li><a href="/s/hobbies-minimalist">Minimalist🚶‍♂️</a></li>
     <li><a href="/s/hobbies-adventure">Adventure🌄</a></li>
