@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Contact
+## Contact & Education
 
 [CV-PDF](/cv/CV-Zhutao.pdf)
 

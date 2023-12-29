@@ -1,8 +1,7 @@
 menu:
 - {name: 'Home', url: '/'}
 - {name: 'Blog', url: '/blog'}
-- {name: 'Q&A', url: '/s/faqs'}
-- {name: 'About me', url: '/about-me'}
+- {name: 'Wiki', url: '/wiki-tao'}
 - {name: 'Gallery', url: '/gallery'}
 
 advisors:

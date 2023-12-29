@@ -3,9 +3,9 @@ layout: home
 title: "Home"
 ---
 
-## Homepage 👋
+## Hey, I'm Zhutao Sheng 👋
 
-*It was the best of times, it was the worst of times, it was the age of wisdom, it was the age of foolishness, it was the epoch of belief, it was the epoch of incredulity, it was the season of Light, it was the season of Darkness, it was the spring of hope, it was the winter of despair.*
+*The beauty of life lies in its endless possibilities. It's never too late to chase your dreams, learn something new, or embrace a new beginning. Every moment is a chance to take that first step toward something incredible.* --- Much love, Tao
 
 
 
