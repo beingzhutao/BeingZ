@@ -4,7 +4,7 @@ layout: home
 
 ## Hobbies
 
-Outside of chemistry
+Outside of work
 
 I'm currently relishing thrilling adventures like camping, skiing, and hiking, while also pursuing hobbies such as photography, DJing. Life is an exciting blend of outdoor escapades and creative passions that keeps me endlessly enthralled. 
 
@@ -17,13 +17,13 @@ Going on an Adventure!
     <li><a href="/s/hobbies-rollercoaster">Roller coaster🎢</a></li>
     <li><a href="/s/hobbies-ski">Ski⛷️</a></li>
     <li><a href="/s/hobbies-reading">Reading📚</a></li>
+    <li><a href="/s/hobbies-spanish">Spanish 🇪🇸</a></li>
     
 </ul>
 </li>
 
 <li>Lesure Time
 <ul>
-    <li><a href="/s/hobbies-spanish">Spanish 🇪🇸</a></li>
     <li><a href="/s/hobbies-puzzles">Puzzles🧩</a></li>
     <li><a href="/s/hobbies-climbing">Climbing🧗‍♂️</a></li>
     <li><a href="/s/hobbies-camping">Camping⛺</a></li>
