@@ -26,11 +26,13 @@ layout: home
 
 💡My Favorite Concepts
 
-⭐My Recommendations
-
-🔮My Visions
+🔮[My Visions](/s/wiki-myvisons)
 
 🗺️[FAQs](/s/faqs)
+
+🌟List of [Quotes](/s/quotes)
+
+📸 Check out my [gallery](/gallery)! It's a mix of landscapes, memories, and portraits—all from nature and my surroundings. 
 
 <style>
     .slideshow {
@@ -60,6 +62,3 @@ layout: home
 </style>
 
 
-📸 Check out my gallery! It's a mix of landscapes, memories, and portraits—all from nature and my surroundings. 
-
-I love it, and I'd love for you to see more. Click on the picture to see more snaps! 🌿🖼️
