@@ -17,6 +17,7 @@ layout: home
 **In this wiki, I publish guides that relate to questions people ask me, lists of inspirations, and other documents related to my thinking and vision that I curate and regularly update and am happy.**
 
 **If you have a question you’d like me to answer, feel free to DM me [contact](/contact-education).**
+📝[Blog](/blog)
 
 📝[About Me](/about-me)
 
@@ -33,6 +34,17 @@ layout: home
 🌟List of [Quotes](/s/quotes)
 
 📸 Check out my [gallery](/gallery)! It's a mix of landscapes, memories, and portraits—all from nature and my surroundings. 
+
+**Other stuffs**:
+
+📚[Chem. Notes](/s/course-notes)
+
+📷[Instagram](https://www.instagram.com/zhutao.s/?utm_source=ig_embed&utm_campaign=loading)
+
+📧[Contact](/contact-education)
+
+📄[CV](/cv/CV-Zhutao.pdf)
+
 
 <style>
     .slideshow {

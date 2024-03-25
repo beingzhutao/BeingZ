@@ -5,7 +5,7 @@ title: "Home"
 
 ## Hey, I'm Zhutao Sheng 👋
 
-*The beauty of life lies in its endless possibilities. It's never too late to chase your dreams, learn something new, or embrace a new beginning. Every moment is a chance to take that first step toward something incredible.* --- Much love, Tao
+*The fresh air and sunshine can always really make me happy* 
 
 
 

@@ -1,8 +1,6 @@
 menu:
 - {name: 'Home', url: '/'}
-- {name: 'Blog', url: '/blog'}
-- {name: 'Wiki', url: '/wiki-tao'}
-- {name: 'Gallery', url: '/gallery'}
+- {name: 'Wiki', url: '/wiki'}
 
 advisors:
 - {name: 'Colin Kinz-Thompson', title: 'Assistant Professor', department: 'School of Arts & Sciences-Newark', institution: 'Rutgers, The State University of New Jersey', institution_address: 'Olson Hall, 73 Warren St, Rutgers University-Newark, Newark, NJ 07102', email: 'colin.kinzthompson@rutgers.edu', image: 'assets/img/colin.jpg', url: 'https://ckinzthompson.github.io'}

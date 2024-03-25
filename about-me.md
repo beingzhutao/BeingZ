@@ -6,7 +6,7 @@ layout: home
 
 Hopefully this document answers a whole bunch of questions you have about me.
 
-If I were to boil down who i am into one sentence, it’s that I am a US-based biochemist dedicated to my field, striving for scientific advancement and innovation from Rutgers University. 
+If I were to boil down who i am into one sentence, it’s that I am a US-based biochemist dedicated to my field, striving for scientific advancement and innovation in USA. 
 
 I come from [Motherland🏯](/s/motherland), do research with my [advisors](/s/advisors). 
 

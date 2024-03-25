@@ -1,6 +1,6 @@
 url: "https://www.zhutaosheng.com" # the base hostname & protocol for your site, e.g. http://example.com
-title: "My journey" # the name of your site
-description: "The only way to do great work is to love what you do - Steve Jobs"
+title: "Journey" # the name of your site
+description: "Being a good person"
 
 ---
 permalink: /404.html
