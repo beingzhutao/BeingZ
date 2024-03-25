@@ -9,14 +9,6 @@ layout: home
 
 <br>
 
-<div style="text-align: center;">
-  <h1>Zhutao's Wiki</h1>
-</div>
-
-
-**In this wiki, I publish guides that relate to questions people ask me, lists of inspirations, and other documents related to my thinking and vision that I curate and regularly update and am happy.**
-
-**If you have a question you’d like me to answer, feel free to DM me [contact](/contact-education).**
 📝[Blog](/blog)
 
 📝[About Me](/about-me)
