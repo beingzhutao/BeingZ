@@ -42,13 +42,8 @@ title: Quotes
 📚 Some of my favorite quotes never fail to inspire me and remind me of what's truly important in life. 💭🌟
 
 
-*如果你想获得一个小时的快乐，那么睡觉；如果你想获得一天的快乐，那么去钓鱼；如果你想获得一年的快乐，那么继承一个财产；如果你想获得一生的快乐，那么帮助别人*
+*If you want happiness for an hour, take a nap. If you want happiness for a day, go fishing. If you want happiness for a year, inherit a fortune. If you want happiness for a lifetime, help somebody.*
 
-*English Tranlation: If you want happiness for an hour, take a nap. If you want happiness for a day, go fishing. If you want happiness for a year, inherit a fortune. If you want happiness for a lifetime, help somebody.*
-
-*Spanish Tranlation: Si quieres obtener una hora de felicidad, entonces duerme; si quieres obtener un día de felicidad, entonces ve a pescar; si quieres obtener un año de felicidad, entonces hereda una propiedad; si quieres obtener una vida de felicidad, entonces ayuda a los demás.*
-
-## Unorganized Quotes
 
 We don't need to live up to the expectations of others or accumulate material possessions to find happiness
 

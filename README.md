@@ -1,1 +1,0 @@
-- *This website build by Jekyll Theme on [GitHub](https://github.com/zhutaosheng/academicprofile-backup)*
