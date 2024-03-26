@@ -11,7 +11,7 @@ layout: home
 
 📝[Blog](/blog)
 
-📝[About Me](/about-me)
+📝[About Me](/s/about-me)
 
 🎨[Hobbies](/s/hobbies-more)
 
@@ -25,7 +25,7 @@ layout: home
 
 🌟List of [Quotes](/s/quotes)
 
-📸 Check out my [gallery](/gallery)! It's a mix of landscapes, memories, and portraits—all from nature and my surroundings. 
+📸 Check out my [gallery](/s/gallery)! It's a mix of landscapes, memories, and portraits—all from nature and my surroundings. 
 
 **Other stuffs**:
 

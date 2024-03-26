@@ -3,7 +3,7 @@ layout: home
 title: "Home"
 ---
 
-## Hey, I'm Zhutao Sheng 👋
+## Hey, I'm Zhutao S 👋
 
 *The fresh air and sunshine can always really make me happy* 
 
