@@ -10,7 +10,7 @@ title: "Chemistry Course notes"
 
 ---
 
-📝 Taking advantage of my free time to jot down some notes! But let's face it, typos happen 😅 If you spot any mistakes, please don't hesitate to send me a quick [email](/contact) 📧 I would really appreciate it! 🙏
+📝 Taking advantage of my free time to jot down some notes! But let's face it, typos happen 😅 If you spot any mistakes, please don't hesitate to send me a quick [email](/contact-education) 📧 I would really appreciate it! 🙏
 
 ## Chem Resources🧪
 [Chem Resources website](/s/chem-resources) - A curated list of chemistry libraries and software.
