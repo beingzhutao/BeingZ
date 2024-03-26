@@ -24,7 +24,6 @@ title: "Home"
     .slideshow {
         position: relative;
         width: 100%;
-        height: 400px;
         overflow: hidden;
     }
     .slideshow img {
@@ -32,7 +31,6 @@ title: "Home"
         top: 0;
         left: 0;
         width: 100%;
-        height: 100%;
         object-fit: cover;
         transition: opacity 1s ease-in-out;
     }
