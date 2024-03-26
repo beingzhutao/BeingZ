@@ -1,5 +1,5 @@
 ---
-layout: default-with-comments
+layout: default
 ---
 
 ## Acid-Base Equilibria

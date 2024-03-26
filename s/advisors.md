@@ -1,5 +1,5 @@
 ---
-layout: advisors
+layout: default
 title: "My advisors"
 ---
 

@@ -1,5 +1,5 @@
 ---
-layout: default-with-comments
+layout: home
 title: "Podcast"
 ---
 

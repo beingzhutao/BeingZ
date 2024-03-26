@@ -1,5 +1,5 @@
 ---
-layout: default-with-comments
+layout: default
 ---
 
 ## Ch10 Alcohol, Thiol Reactions

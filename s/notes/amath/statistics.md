@@ -1,5 +1,5 @@
 ---
-layout: default-with-comments
+layout: default
 ---
 
 Based on *Probability and Statistics for Engineering and the Sciences* 9e.
