@@ -1,29 +1,35 @@
 ---
 layout: advisors
-title: "Current & previous advisors"
+title: "My advisors"
 ---
 
-{{ content }}
-
-<h3 class="fw-bold border-bottom pb-3 mb-5">Current & Previous  Advisors </h3>
-{% for person in site.data.settings.advisors %}
 <div class="row g-5 mb-5">
   <div class="col-md-6">
-    <h5>{{ person.name }}</h5>
-    <p>Email: {{ person.email }}</p>
-    <p>Title: {{ person.title }}</p>
-    <p>Department: {{ person.department }}</p>
-    <p>Institution: {{ person.institution }}</p>
-    <p>Institution address: {{ person.institution_address }}</p>
-    <p>Email: {{ person.email }}</p>
-    <p><a href="{{ person.url }}">Related Websites</a></p>
+    <h5>Colin Kinz-Thompson</h5>
+    <p>Title: Assistant Professor</p>
+    <p>Department: School of Arts & Sciences-Newark</p>
+    <p>Rutgers, The State University of New Jersey</p>
+    <p>Institution address: Olson Hall, 73 Warren St, Rutgers University-Newark, Newark, NJ 07102</p>
+    <p>Email: colin.kinzthompson@rutgers.edu</p>
+    <p><a href="https://ckinzthompson.github.io">Related Websites</a></p>
   </div>
   <div class="col-md-6">
-    <img src="/{{ person.image }}" alt="Contact" width="50%">
+    <img src="/assets/img/colin.jpg" alt="Contact" width="50%">
   </div>
 </div>
-{% endfor %}
 
-advisors:
-- {name: 'Colin Kinz-Thompson', title: 'Assistant Professor', department: 'School of Arts & Sciences-Newark', institution: 'Rutgers, The State University of New Jersey', institution_address: 'Olson Hall, 73 Warren St, Rutgers University-Newark, Newark, NJ 07102', email: 'colin.kinzthompson@rutgers.edu', image: 'assets/img/colin.jpg', url: 'https://ckinzthompson.github.io'}
-- {name: 'Guangfeng Wang', title: 'Assistant Professor', department: 'School of Chemistry and Materials Science', institution: 'Anhui Normal University | AHNU', institution_address: 'Wuhu, Anhui, China', email: 'wangyuz@mail.ahnu.edu.cn', image: 'assets/img/wangguangfeng.jpg', url: 'https://www.researchgate.net/profile/Guangfeng-Wang-2'}
+
+<div class="row g-5 mb-5">
+  <div class="col-md-6">
+    <h5>Guangfeng Wang</h5>
+    <p>Title: Assistant Professor</p>
+    <p>Department: School of Chemistry and Materials Science</p>
+    <p>Institution: Anhui Normal University</p>
+    <p>Institution address: Wuhu, Anhui, China</p>
+    <p>Email: wangyuz@mail.ahnu.edu.cn</p>
+    <p><a href="https://www.researchgate.net/profile/Guangfeng-Wang-2">Related Websites</a></p>
+  </div>
+  <div class="col-md-6">
+    <img src="/assets/img/wangguangfeng.jpg" alt="Contact" width="50%">
+  </div>
+</div>
