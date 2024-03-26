@@ -21,6 +21,8 @@ layout: home
 
 🔮[My Visions](/s/wiki-myvisons)
 
+😀[My Advisors](/s/advisors)
+
 🗺️[FAQs](/s/faqs)
 
 🌟List of [Quotes](/s/quotes)
